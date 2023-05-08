@@ -12,6 +12,7 @@
 ## Lightning Talks
 
 * How TF does a transport card work? (@sampoder)
+* WeWork didn't die?? (@alex)
 
 ## Activities
 
