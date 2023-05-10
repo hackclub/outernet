@@ -28,6 +28,6 @@ To start your own village with friends, follow these three steps:
 
 1. Create a channel in the [Hack Club Slack](https://hackclub.com/slack) for your village.
 2. Through Slack, find four or more fellow attendees to help out with running the village.
-3. Submit a PR to `hackclub/outernet` add idea to above list of villages. Alongside a brief description of your idea, please also include a breakdown of how you see yourself spending (or not spending) the $250 grant and list those who'll be helping you.
+3. Submit a PR to [`hackclub/outernet`](https://github.com/hackclub/outernet/) that adds your idea to above list of villages. Alongside a brief description of your idea, please also include a breakdown of how you see yourself spending (or not spending) the $250 grant and list those who'll be helping you.
 
 Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [Hack Club Bank](https://hackclub.com/bank) account.
