@@ -33,3 +33,13 @@ To start your own village with friends, follow these three steps:
 3. Submit a PR to [`hackclub/outernet`](https://github.com/hackclub/outernet/) that adds your idea to above list of villages. Alongside a brief description of your idea, please also include a breakdown of how you see yourself spending (or not spending) the $250 grant and list those who'll be helping you.
 
 Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [Hack Club Bank](https://hackclub.com/bank) account.
+
+## What makes a great village?
+
+A great village... 
+
+* brings people together and encourages friendship.
+* allows everyone to try something new and unexpected.
+* has low barriers to entry but lots of opportunity for folk to extend themselves.
+* can be "hacked" - ie. anyone can come along with an idea and make it even better.
+* embraces the rustic outdoors spirit of Outernet.
