@@ -8,6 +8,8 @@ Otis is a blank canvas; together, we'll create a bustling society on it. Socitie
 
 That's where the idea of "villages" comes in. 
 
+In the good old days we had a village for everything - fishing villages, postal villages, farming villages etc. Each village contributed something back to society. At Outernet villages are much the same; each village has a specific theme / purpose and all of them contribute to the overall atmosphere of our society.
+
 Villages are spaces for hackers to do things during Outernet. Physically, most villages will probably have a tent, a table, and a couple of chairs but it'll be the people who bring the magic to them. 
 
 Here's a list of villages already in the works:
