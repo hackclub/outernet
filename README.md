@@ -4,11 +4,13 @@ July 28th to 31st 2023; we’ve found the place, now it’s time for you to crea
 
 Together, we'll turn an empty field into a bustling society for hackers. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
-That's where the idea of "guilds" comes in. 
+![Hack_Club_Assemble_LTNJ_00037](https://github.com/hackclub/outernet/assets/39828164/c9057168-862e-46a4-9729-49a79115d2d2)
 
-There was once a time when everything had an associated guild - an engineers guild, a musicians guild, a farmers guild etc. Each guild contributed something specific back to society. At Outernet, guilds are much the same; each guild has a specific theme / purpose and all of them contribute to the overall atmosphere of our camp.
+![Hack_Club_Assemble_LTNJ_02661](https://github.com/hackclub/outernet/assets/39828164/8bc54020-fc4f-43a8-8617-3eb439988d4a)
 
-**Guilds are spaces for hackers to do things during Outernet.**
+This is where the idea of "guilds" comes in. Guilds are a framework for hackers to do things during Outernet. If there's something you'd like to have at Outernet, we recommend starting a guild focused on it.
+
+There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds are much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
 
 Here's a list of guilds already in the works:
 
