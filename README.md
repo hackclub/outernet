@@ -32,12 +32,16 @@ To start your own guild with friends, follow these three steps:
 
 Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [Hack Club Bank](https://hackclub.com/bank) account.
 
+<img src="https://github.com/hackclub/outernet/assets/39828164/ea37084f-7c02-41a2-acc3-843af13155af" width="450px"> <img src="https://github.com/hackclub/outernet/assets/39828164/faa08040-1fc2-4389-8d50-feb9d6b1e813" width="450px">
+
 ## What makes a great guild?
 
-A great guild... 
+We believe that a great guild... 
 
 * brings people together and encourages friendship.
 * allows everyone to try something new and unexpected.
 * has low barriers to entry but lots of opportunity for folk to extend themselves.
 * can be "hacked" - ie. anyone can come along with an idea and make it even better.
 * embraces the rustic outdoors spirit of Outernet.
+
+ <img src="https://github.com/hackclub/outernet/assets/39828164/184611b8-8ba4-4237-bda6-d73c4dabd007" width="450px"> <img src="https://github.com/hackclub/outernet/assets/39828164/6c1fd9c7-49a4-4bc8-ab17-c841c6bd6f8b" width="450px"> 
