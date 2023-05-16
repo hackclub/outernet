@@ -12,11 +12,11 @@ There was once a time when everything had an associated guild - an engineers' gu
 
 Here's a list of guilds already in the works:
 
-**The Lab (#outernet-lab)**: Looking to learn something new? The Lab will be the home of workshops and lightning talks for the weekend! Workshops and lightning talks will be given by Hack Clubbers for Hack Clubbers. If you'd like to lead one, let us know when registering! You'll also be able to sign up during the camp.
+**🔬 The Lab (#outernet-lab)**: Looking to learn something new? The Lab will be the home of workshops and lightning talks for the weekend! Workshops and lightning talks will be given by Hack Clubbers for Hack Clubbers. If you'd like to lead one, let us know when registering! You'll also be able to sign up during the camp.
 
-**The Cookhouse (#outernet-cookhouse)**: here's where we'll be preparing all the food for the weekend from midnight snacks to multi-course dinners. For some days we'll work with caterers and on others we'll make our own food! There'll also be a limited cooking equipment for folks to use all weekend long.
+**🍳 The Cookhouse (#outernet-cookhouse)**: here's where we'll be preparing all the food for the weekend from midnight snacks to multi-course dinners. For some days we'll work with caterers and on others we'll make our own food! There'll also be a limited cooking equipment for folks to use all weekend long.
 
-**The Hardware Shack (#outernet-hardware-shack)**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
+**🛠️ The Hardware Shack (#outernet-hardware-shack)**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
