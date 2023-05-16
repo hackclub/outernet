@@ -1,10 +1,8 @@
-# Outernet
+# [Outernet](https://44.74.hackclub.com): what are guilds?
 
 July 28th to 31st 2023; we’ve found the place, now it’s time for you to create the space. 
 
-## What are guilds?
-
-Outernet is a blank canvas; together, we'll create a bustling society on it. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
+Together, we'll turn an empty field into a bustling society for hackers. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
 That's where the idea of "guilds" comes in. 
 
