@@ -4,7 +4,7 @@ July 28th to 31st 2023; we’ve found the place, now it’s time for you to crea
 
 Together, we'll turn an empty field into a bustling society for hackers. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
-<img src="https://github.com/hackclub/outernet/assets/39828164/c9057168-862e-46a4-9729-49a79115d2d2" width="450px">   <img src="https://github.com/hackclub/outernet/assets/39828164/8bc54020-fc4f-43a8-8617-3eb439988d4a" width="450px">
+<img src="https://github.com/hackclub/outernet/assets/39828164/c9057168-862e-46a4-9729-49a79115d2d2" width="350px">   <img src="https://github.com/hackclub/outernet/assets/39828164/8bc54020-fc4f-43a8-8617-3eb439988d4a" width="350px">
 
 This is where the idea of "guilds" comes in. Guilds are a framework for hackers to do things during Outernet. If there's something you'd like to have at Outernet, we recommend starting a guild focused on it.
 
@@ -32,7 +32,7 @@ To start your own guild with friends, follow these three steps:
 
 Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [Hack Club Bank](https://hackclub.com/bank) account.
 
-<img src="https://github.com/hackclub/outernet/assets/39828164/ea37084f-7c02-41a2-acc3-843af13155af" width="450px"> <img src="https://github.com/hackclub/outernet/assets/39828164/faa08040-1fc2-4389-8d50-feb9d6b1e813" width="450px">
+<img src="https://github.com/hackclub/outernet/assets/39828164/ea37084f-7c02-41a2-acc3-843af13155af" width="350px"> <img src="https://github.com/hackclub/outernet/assets/39828164/faa08040-1fc2-4389-8d50-feb9d6b1e813" width="350px">
 
 ## What makes a great guild?
 
@@ -44,4 +44,4 @@ We believe that a great guild...
 * can be "hacked" - ie. anyone can come along with an idea and make it even better.
 * embraces the rustic outdoors spirit of Outernet.
 
- <img src="https://github.com/hackclub/outernet/assets/39828164/184611b8-8ba4-4237-bda6-d73c4dabd007" width="450px"> <img src="https://github.com/hackclub/outernet/assets/39828164/6c1fd9c7-49a4-4bc8-ab17-c841c6bd6f8b" width="450px"> 
+ <img src="https://github.com/hackclub/outernet/assets/39828164/184611b8-8ba4-4237-bda6-d73c4dabd007" width="350px"> <img src="https://github.com/hackclub/outernet/assets/39828164/6c1fd9c7-49a4-4bc8-ab17-c841c6bd6f8b" width="350px"> 
