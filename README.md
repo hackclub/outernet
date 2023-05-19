@@ -1,6 +1,6 @@
 # [Outernet](https://44.74.hackclub.com): what are guilds?
 
-July 28th to 31st 2023; we’ve found the place, now it’s time for you to create the space. 
+July 28th to 31st 2023; we’ll find the place, you'll create the space. 
 
 Together, we'll turn an empty field into a bustling society for hackers. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
@@ -12,7 +12,7 @@ There was once a time when everything had an associated guild - an engineers' gu
 
 Here's a list of guilds already in the works:
 
-**🔬 The Lab ([#outernet-lab](https://hackclub.slack.com/archives/C057ZQL8XKL))**: looking to learn something new? The Lab will be the home of workshops and lightning talks for the weekend! Workshops and lightning talks will be given by Hack Clubbers for Hack Clubbers. If you'd like to lead one, let us know when registering! You'll also be able to sign up during the camp.
+**🔬 The Lab ([#outernet-lab](https://hackclub.slack.com/archives/C057ZQL8XKL))**: the Lab is going to be a dedicated tent for workshops, “technical explorations” (name TBC), lightning talks and all round, learning new things! Workshops and lightning talks will be given by Hack Clubbers for Hack Clubbers. If you'd like to lead one, let us know when registering! You'll also be able to sign up during the camp.
 
 **🍳 The Cookhouse ([#outernet-cookhouse](https://hackclub.slack.com/archives/C057ZLQTV43))**: here's where we'll be preparing all the food for the weekend from midnight snacks to multi-course dinners. For some days we'll work with caterers and on others we'll make our own food! There'll also be a limited cooking equipment for folks to use all weekend long.
 
