@@ -18,6 +18,9 @@ Here's a list of guilds already in the works:
 
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
+**🛠️ Cafe Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
+(p.s. we plan to spend the money on necessary resources to run the cafe such as tea, coffee, a music speaker, places for people to sit, and a tent)
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
