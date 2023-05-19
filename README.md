@@ -18,6 +18,8 @@ Here's a list of guilds already in the works:
 
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
+**🥾 Hike Club ([#outernet-hike-club](https://hackclub.slack.com/archives/C058JR94NJZ))**: while at base camp, you'll program hardware ready for a hike. We'll need to navigate; maybe you could make a handheld compass with a Pico and a magnetometer? Want to track your fitness? Perhaps hack a pedometer to interface with an Arduino. Have you got an eye for data science? Perhaps use a Raspberry Pi to monitor atmospheric conditions on the way up, and track them via a web app on your phone!
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
