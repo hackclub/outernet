@@ -16,6 +16,8 @@ Here's a list of guilds already in the works:
 
 **🍳 The Cookhouse ([#outernet-cookhouse](https://hackclub.slack.com/archives/C057ZLQTV43))**: here's where we'll be preparing all the food for the weekend from midnight snacks to multi-course dinners. For some days we'll work with caterers and on others we'll make our own food! There'll also be a limited cooking equipment for folks to use all weekend long.
 
+**🍳 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange (NOPE) is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
+
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
 **🛠️ Cafe Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
