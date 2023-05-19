@@ -2,7 +2,7 @@
 
 July 28th to 31st 2023; we’ll find the place, you'll create the space. 
 
-Together, we'll turn an empty field into a bustling society for hackers. Socities are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
+Together, we'll turn an empty field into a bustling society for hackers. Societies are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
 ![Livin' life in peace](https://github.com/hackclub/outernet/assets/39828164/195776fb-b447-4325-b2ca-44f890e7080f)
 
