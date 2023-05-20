@@ -20,7 +20,7 @@ Here's a list of guilds already in the works:
 
 **🛠 Cafe Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
 
-**📶 OuterLAN ([#outernet-net](https://hackclub.slack.com/archives/C058H62CP9C)**: The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
+**📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**: The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
