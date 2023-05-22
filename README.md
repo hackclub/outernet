@@ -1,3 +1,6 @@
+Outernet Rickrolls
+-----
+
 # [Outernet](https://44.74.hackclub.com): what are guilds?
 
 July 28th to 31st 2023; we’ll find the place, you'll create the space. 
