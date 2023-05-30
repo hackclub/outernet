@@ -28,6 +28,8 @@ Here's a list of guilds already in the works:
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
+**🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
+
 ## How can I start a guild?
 
 We’ve set aside $5,000 for attendees to start their own guild, we'll start by giving every new guild $250 to buy the resources they'll need.
