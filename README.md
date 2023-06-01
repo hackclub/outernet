@@ -18,13 +18,15 @@ Here's a list of guilds already in the works:
 
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
-**📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
+**☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment.
+
+**🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
 
 **📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange (NOPE) is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
 
-**☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
+**📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
 
-**🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
+**📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
