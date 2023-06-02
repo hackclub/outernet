@@ -1,5 +1,3 @@
-Outernet Rickrolls
------
 
 # [Outernet](https://44.74.hackclub.com): what are guilds?
 
@@ -26,6 +24,8 @@ Here's a list of guilds already in the works:
 **📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange (NOPE) is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
 
 **🛠️ Cafe Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
+
+**🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
