@@ -28,6 +28,8 @@ Here's a list of guilds already in the works:
 
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
+**👻 Scarshies ([#scarshies](https://hackclub.slack.com/archives/C05AZ0XCWNQ))**: A story-telling guild! We'll be telling scary stories and giving lightning talks with an audience full of plushies and hackers.
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
