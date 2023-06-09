@@ -1,6 +1,6 @@
 # [Outernet](https://44.74.hackclub.com): what are guilds?
 
-July 28th to 31st 2023; we’ll find the place, you'll create the space. 
+July 28th to 31st 2023; we’ve found the place, you'll create the space. 
 
 Together, we'll turn an empty field into a bustling society for hackers. Societies are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
