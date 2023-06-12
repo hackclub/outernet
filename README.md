@@ -1,3 +1,7 @@
+
+
+
+=======
 # [Outernet](https://outernet.hackclub.com): what are guilds?
 
 July 28th to 31st 2023; we’ve found the place, you'll create the space. 
@@ -27,6 +31,8 @@ Here's a list of guilds already in the works:
 **📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
 
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
+
+**🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
