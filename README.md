@@ -32,6 +32,8 @@ Here's a list of guilds already in the works:
 
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
+**🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
+
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
