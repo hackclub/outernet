@@ -1,6 +1,10 @@
-# [Outernet](https://44.74.hackclub.com): what are guilds?
 
-July 28th to 31st 2023; we’ll find the place, you'll create the space. 
+
+
+=======
+# [Outernet](https://outernet.hackclub.com): what are guilds?
+
+July 28th to 31st 2023; we’ve found the place, you'll create the space. 
 
 Together, we'll turn an empty field into a bustling society for hackers. Societies are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
@@ -18,6 +22,11 @@ Here's a list of guilds already in the works:
 
 **🛠️ The Hardware Shack ([#outernet-hardware-shack](https://hackclub.slack.com/archives/C057WS8DGJH))**: we've been collecting pieces of old tech, retro gadgets, and all sorts of makerware (sensors, microcontrollers, LEDs etc.). You'll be able to come along to the Hardware Shack to find pieces of hardware you can hack on and create projects with.
 
+**🥾 Hike Club ([#outernet-hike-club](https://hackclub.slack.com/archives/C058JR94NJZ))**: while at base camp, you'll program hardware ready for a hike. We'll need to navigate; maybe you could make a handheld compass with a Pico and a magnetometer? Want to track your fitness? Perhaps hack a pedometer to interface with an Arduino. Have you got an eye for data science? Perhaps use a Raspberry Pi to monitor atmospheric conditions on the way up, and track them via a web app on your phone! Once we're up, we'll analyse all the data we gathered and make a presentation with our findings ready to report back to camp.
+<!-- (Raspberry Pi Pico x3=$12, [Tiny OLED](https://www.adafruit.com/product/938)x3=$60, [Magnetometer](https://www.adafruit.com/product/5579)x2=$12, [Accelerometer](https://www.adafruit.com/product/4438)x3=$36, Pi Zero W x1=$15, [Pulse Sensor](https://www.adafruit.com/product/1093)x2=$50, [Altitude/Temperature](https://www.adafruit.com/product/1893)x3=$30, [ESP32-S3 Feather](https://www.adafruit.com/product/5477)x2=$35) -->
+
+**📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
+
 **☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment.
 
 **🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
@@ -30,7 +39,13 @@ Here's a list of guilds already in the works:
 
 **👻 Scarshies ([#scarshies](https://hackclub.slack.com/archives/C05AZ0XCWNQ))**: A story-telling guild! We'll be telling scary stories and giving lightning talks with an audience full of plushies and hackers.
 
+**🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
+
+**🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
+
+**🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
 ## How can I start a guild?
 
