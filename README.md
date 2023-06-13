@@ -1,6 +1,10 @@
-# [Outernet](https://44.74.hackclub.com): what are guilds?
 
-July 28th to 31st 2023; we’ll find the place, you'll create the space. 
+
+
+=======
+# [Outernet](https://outernet.hackclub.com): what are guilds?
+
+July 28th to 31st 2023; we’ve found the place, you'll create the space. 
 
 Together, we'll turn an empty field into a bustling society for hackers. Societies are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
@@ -30,7 +34,11 @@ Here's a list of guilds already in the works:
 
 **🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
 
+**🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
+
+**🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
 ## How can I start a guild?
 
