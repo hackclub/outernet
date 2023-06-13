@@ -1,6 +1,10 @@
-# [Outernet](https://44.74.hackclub.com): what are guilds?
 
-July 28th to 31st 2023; we’ll find the place, you'll create the space. 
+
+
+=======
+# [Outernet](https://outernet.hackclub.com): what are guilds?
+
+July 28th to 31st 2023; we’ve found the place, you'll create the space. 
 
 Together, we'll turn an empty field into a bustling society for hackers. Societies are made up of many things. Think about the neighbourhood you live in - you've got stores, parks, hangout spaces etc. We'll need to create all of that. 
 
@@ -23,11 +27,23 @@ Here's a list of guilds already in the works:
 
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
+**☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment.
+
+**🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
+
 **📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange (NOPE) is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
 
-**🛠️ Cafe Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment. 
+**📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
+
+**📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
+
+**🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
+
+**🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
+
+**🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
 ## How can I start a guild?
 
