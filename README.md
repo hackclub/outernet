@@ -1,7 +1,4 @@
 
-
-
-=======
 # [Outernet](https://outernet.hackclub.com): what are guilds?
 
 July 28th to 31st 2023; we’ve found the place, you'll create the space. 
