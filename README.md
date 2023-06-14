@@ -40,9 +40,9 @@ Here's a list of guilds already in the works:
 
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
-You're welcome to get involved with one of them on Slack or start your own guild with friends!
-
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
+
+You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
 
