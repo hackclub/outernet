@@ -1,4 +1,4 @@
-# Sumbissions
+
 
 ## Ideas?
 - Have people sumbit their proposals in a github pr and markdown file
