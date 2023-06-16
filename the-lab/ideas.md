@@ -1,4 +1,6 @@
-
+## Decided upon
+- Approve every workshop as much as we can, and the ones that seem problematic or have issues, let's work them to improve it
+-  Review people workshops and help improve them; For problemmatic/issue ones, on a call or aysnc, and with the ones that are ok have them sumbit a PR here with their idea, and guide them through mostly async
 
 ## Ideas?
 - Use the concept of a Unconfrence as a guide -- more partipcant driven (How can we do that in the best way?)
