@@ -1,4 +1,4 @@
 # 🧪 The Lab
 Home to workshops & lighting talks at Outernet!
 
-[Keep a eye on this space 👀]
+[Join the discussion in Slack!](https://hackclub.slack.com/archives/C057ZQL8XKL)
