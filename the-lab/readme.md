@@ -7,6 +7,6 @@ The Lab isn't like your typical hackathon or event workshop, it's a space for yo
 
 This is the Lab.
 
-[Join the discussion in Slack!](https://hackclub.slack.com/archives/C057ZQL8XKL)
+[Join the discussion in Slack!](https://hackclub.slack.com/archives/C057ZQL8XKL) <br>
 [View workshops & Lighting Talks!](https://github.com/hackclub/outernet/tree/guild-channels/the-lab/experiments)
 
