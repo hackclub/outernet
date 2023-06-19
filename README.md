@@ -42,6 +42,8 @@ Here's a list of guilds already in the works:
 
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
+**🎫 Outernet Passport [#outernet-passport](https://hackclub.slack.com/archives/C05934V41G9)**: We issue passports and fun stamps to people to make physical memories and have a memorabalia.
+
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
