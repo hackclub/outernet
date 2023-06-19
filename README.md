@@ -42,6 +42,9 @@ Here's a list of guilds already in the works:
 
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
+
+**:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
