@@ -28,11 +28,9 @@ Here's a list of guilds already in the works:
 
 **🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
 
-**📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange (NOPE) is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
+**📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
 
 **📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
-
-**📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
 **👻 Scarshies ([#scarshies](https://hackclub.slack.com/archives/C05AZ0XCWNQ))**: A story-telling guild! We'll be telling scary stories and giving lightning talks with an audience full of plushies and hackers.
 
@@ -41,6 +39,8 @@ Here's a list of guilds already in the works:
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
+
+**:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
 **💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
 
