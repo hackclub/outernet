@@ -32,8 +32,6 @@ Here's a list of guilds already in the works:
 
 **📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
 
-**👻 Scarshies ([#scarshies](https://hackclub.slack.com/archives/C05AZ0XCWNQ))**: A story-telling guild! We'll be telling scary stories and giving lightning talks with an audience full of plushies and hackers.
-
 **🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
 
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
