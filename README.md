@@ -32,8 +32,6 @@ Here's a list of guilds already in the works:
 
 **📶 OuterLAN ([#outernet-lan](https://hackclub.slack.com/archives/C058H62CP9C)**): The OuterLAN will be a custom intranet for all services being hosted at the Outernet, as well as a mesh network for reliable network access across the campsite. Help us design, build out, deploy, and troubleshoot the OuterLAN!
 
-**👻 Scarshies ([#scarshies](https://hackclub.slack.com/archives/C05AZ0XCWNQ))**: A story-telling guild! We'll be telling scary stories and giving lightning talks with an audience full of plushies and hackers.
-
 **🧶 Crochet Club ([#outernet-crochet-club](https://hackclub.slack.com/archives/C05B43X7TB8)**): Want to learn how to crochet? We'll be crafting up some Orpheus plushies + more. Join us to learn a fun new skill!
 
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
@@ -41,6 +39,7 @@ Here's a list of guilds already in the works:
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
 **☁️ Outernet Web Services ([#outernet-web-services](https://app.slack.com/client/T0266FRGM/C05E2N23ZD0/thread/C05E2N23ZD0-1687622068.341089)**): Outernet's own Digital Ocean/AWS-like hosting/compute cloud service, where fellow Hack Clubbers and guilds can spin up instances & host a project, such as a website, blog, or even a podcast! We'll also offer a .outernet domain for your project on [OuterLAN](https://github.com/hackclub/outernet/tree/main#:~:text=%F0%9F%93%B6,troubleshoot%20the%20OuterLAN!)!
+**🎫 Outernet Passport [#outernet-passport](https://hackclub.slack.com/archives/C05934V41G9)**: We issue passports and fun stamps to people to make physical memories and have a memorabalia.
 
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
