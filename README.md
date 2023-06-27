@@ -43,6 +43,9 @@ Here's a list of guilds already in the works:
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
+**✈️ Radio Controlled ([#outernet-radiocontrolled](https://hackclub.slack.com/archives/C05E2FXTCLS))**: A guild for all things radio-controlled where people can build whatever idea comes to mind. We will have a bunch of RC parts and lessons on building RC airplanes or other stuff and once your finished you can fly/drive wherever you create.
+
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
