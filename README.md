@@ -26,6 +26,8 @@ Here's a list of guilds already in the works:
 
 **☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment.
 
+**🎾 Outernet Sports([#outernet-sports](https://hackclub.slack.com/archives/C05941R7FEV))**: Ultimate sports guild for all the sports activities including badminton, frisbee, water balloons, capture the flag, soccer, and football!
+
 **🥖 Bakery @ Café Orpheus ([#orpheus-bakery](https://hackclub.slack.com/archives/C059DQ4EPNU)**: Baking the fresh goods daily that are sold at Café Orpheus. We invite you to come and bake with us!
 
 **📞 SussyTel ([#sussytel](https://hackclub.slack.com/archives/C058NM4HZCJ))**: The Northeastern Open Phone Exchange is proud to bring you SussyTel for the duration of this event! Come to our area to learn about how phones work, or try out our entirely on-site ARG (no websites, only phones and finding things)! Operators will be on standby to connect you. Thank you for calling SussyTel. How may we direct your call?
@@ -38,12 +40,17 @@ Here's a list of guilds already in the works:
 
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
-**🎫 Outernet Passport [#outernet-passport](https://hackclub.slack.com/archives/C05934V41G9)**: We issue passports and fun stamps to people to make physical memories and have a memorabalia.
+**☁️ Outernet Web Services ([#outernet-web-services](https://app.slack.com/client/T0266FRGM/C05E2N23ZD0/thread/C05E2N23ZD0-1687622068.341089)**): Outernet's own Digital Ocean/AWS-like hosting/compute cloud service, where fellow Hack Clubbers and guilds can spin up instances & host a project, such as a website, blog, or even a podcast! We'll also offer a .outernet domain for your project on [OuterLAN](https://github.com/hackclub/outernet/tree/main#:~:text=%F0%9F%93%B6,troubleshoot%20the%20OuterLAN!)!
 
+**🎫 Outernet Passport [#outernet-passport](https://hackclub.slack.com/archives/C05934V41G9)**: We issue passports and fun stamps to people to make physical memories and have a memorabalia.
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
 **✈️ Radio Controlled ([#outernet-radiocontrolled](https://hackclub.slack.com/archives/C05E2FXTCLS))**: A guild for all things radio-controlled where people can build whatever idea comes to mind. We will have a bunch of RC parts and lessons on building RC airplanes or other stuff and once your finished you can fly/drive wherever you create.
+
+**⚔️ Dueling ([#outernet-dueling](https://hackclub.slack.com/archives/C05BPEC2AEM))**: Inspired by Angelhacks, we will have lightsabers! (Real swords are too sharp, but lightsabers are cool and light up!)
+
+**💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
 
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
