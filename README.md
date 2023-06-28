@@ -44,10 +44,12 @@ Here's a list of guilds already in the works:
 
 **🎫 Outernet Passport [#outernet-passport](https://hackclub.slack.com/archives/C05934V41G9)**: We issue passports and fun stamps to people to make physical memories and have a memorabalia.
 
-
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
+**⚔️ Dueling ([#outernet-dueling](https://hackclub.slack.com/archives/C05BPEC2AEM))**: Inspired by Angelhacks, we will have lightsabers! (Real swords are too sharp, but lightsabers are cool and light up!)
+
 **💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
+
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
