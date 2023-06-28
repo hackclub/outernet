@@ -52,6 +52,7 @@ Here's a list of guilds already in the works:
 
 **💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
 
+**�� Outernet Radio (W2H) ([#outernet-radio](https://hackclub.slack.com/archives/C058XFV7MCK))**: We will set up an amateur radio station under the special event callsign W2H, and operate throughout the weekend.
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
