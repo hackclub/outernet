@@ -11,7 +11,7 @@ Slack_username: "if you have one"
 * You will have access to a projecter and/or a whiteboard
 * if you need any props, please let us know!
 ### Plan
-> What do you want  to have your lighting talk about? It can be about anything like art to why JSX is bad, as long it's apporaite! 
+> What do you want  to have your lighting talk about? It can be about anything like art to why JSX is bad, as long it's appropriate 
 > How would the talk look like? Mention if you're going to have slides!!
 
 * I want to talk about why tabs are better than spaces
