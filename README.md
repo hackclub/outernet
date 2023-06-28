@@ -47,6 +47,8 @@ Here's a list of guilds already in the works:
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
+**💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
