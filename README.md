@@ -52,6 +52,7 @@ Here's a list of guilds already in the works:
 
 **💡 Debates & Trivia ([#outernet-debates-and-trivia](https://app.slack.com/client/T0266FRGM/C058SH88N5R/))**: Want to debate the best editor? Have fun answering questions about Hack Club and miscellanea? Join us! We'll be having a few casual events and a tournament.
 
+**🌌 Outernet Space Agency ([#outernet-space-agency](https://hackclub.slack.com/archives/C059DHPQBUG))**: The Outernet Space Agency is a fully-functional* space agency that will be operating throughout Outernet! We'll build rockets, track the stars and satellites, and participate in much more space nerdiness!
 **🎬 Film & Movies ([#outernet-film-and-movies](https://hackclub.slack.com/archives/C05EQQ07119))**: Ready for a reel adventure! Immerse yourself into the mesmerizing realm of film, either sitting back and enjoying them or becoming the director yourself.
 
 
