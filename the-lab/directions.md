@@ -8,7 +8,7 @@
    ![img_3.png](images/img_3.png)
 
 4. Change the file name in respect to if it's a `lighting talk` or `workshop` to the right folder. For example: `/the-lab/workshops/name-of-workshop.md` or `/the-lab/workshops/your-name.md`.
-   <video src="https://cloud-kekqljri8-hack-club-bot.vercel.app/0screencast_from_2023-06-27_23-55-40.webm"> </video>
+  
 5. Edit the template with the steps outlined in each template + commit it
 ![img_6.png](images/img_6.png)
 
