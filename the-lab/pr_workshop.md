@@ -19,12 +19,10 @@ slack_username: "FILL THIS OUT"
 **How much time do you think it'll take?**: 30 mins
 
 ### Do you think you might need anything?
-> Will you need a projecter, or do you think you'll be okay without one? (We only have a limited # of projecters), Do you need hardware boards, or other supplies like paint that you would need us to purchase or have on hand?
+> We are not able to offer a projecter for workshops, but if you think you might need anything else like hardware boards, or other supplies like paint that you would need us to purchase or have on hand?
 
-Filler text is something right? Anyhow, I'm not quite sure what to put here. So I'm just writing random thoughts and words that come into my mind. I guess you could say
-that it's somewhat logical, and has an order. I'm lazy, so now I'm just going to say the word filler again and again, filler, filler, filler, filler, filler, filler, filler
+[Add everything you might need here]
 
-(This section can also be in jot notes if you'd like!)
 
 ### People involved
 > List all the people who are running this workshop if it's more than 1!
