@@ -29,5 +29,4 @@ that it's somewhat logical, and has an order. I'm lazy, so now I'm just going to
 ### People involved
 > List all the people who are running this workshop if it's more than 1!
 * Prophet Orpheus
-* Arav Narula
 
