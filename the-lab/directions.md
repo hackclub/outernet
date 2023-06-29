@@ -1,11 +1,10 @@
-# How to submit your experiment
+# How to Submit Your Workshop / Lightning Talk
 
-1. Fork the ``hackclub/outernet`` repo <br>
-![img_1.png](images/img_1.png)
-2. Head on over to fork and navigate to ``the-lab`` folder
-   ![img_2.png](images/img_2.png)
-3. Find the PR_template.md file for your experiment, and start filling it out!
-   <br> **hint:** pr_workshop.md, and/or pr_lighting.md
+1. Fork the [``hackclub/outernet``](https://github.com/hackclub/outernet) repo: <br> <br>
+![img_1.png](images/img_1.png) <br> <br>
+2. Head to your fork of the repo and navigate to ``the-lab`` folder <br> <br>
+   ![img_2.png](images/img_2.png) <br> <br>
+3. Select the appropriate template: `pr_workshop.md` and `pr_lighting.md`: <br> <br>
    ![img_3.png](images/img_3.png)
 4. Change the file name in respect to if it's a ``lighting talk`` or ``workshop`` to the right folder
 <br> **example** ``/the-lab/workshops/aravnarula/pr-lighting.md`` (change workshops if you're doing a a lighting talk, + your name)
