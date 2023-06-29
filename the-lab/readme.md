@@ -1,5 +1,5 @@
 # 🧪 The Lab
-
+[Want to run a workshop or lighting talk?](https://github.com/hackclub/outernet/blob/main/the-lab/directions.md)
 
 Home to workshops & lighting talks at Outernet!
 
