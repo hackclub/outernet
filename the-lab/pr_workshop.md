@@ -1,7 +1,7 @@
 ---
-name: "Arav"
-Workshop_topic: "How to make a sprig game"
-Slack_username: "if you have one"
+name: "FILL THIS OUT"
+topic: "FILL THIS OUT"
+slack_username: "FILL THIS OUT"
 ---
 
 ## Workshop name
