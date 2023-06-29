@@ -1,5 +1,5 @@
 # 🧪 The Lab
-[Want to add your submit your lighting talk or workshop](https://github.com/hackclub/outernet/tree/guild-channels/the-lab/experiments)
+
 
 Home to workshops & lighting talks at Outernet!
 
