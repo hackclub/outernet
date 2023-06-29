@@ -7,7 +7,7 @@
 3. Select the appropriate template: `pr_workshop.md` and `pr_lighting.md`: <br> <br>
    ![img_3.png](images/img_3.png)
 
-4. Change the file name in respect to if it's a `lighting talk` or `workshop` to the right folder. For example: `/the-lab/workshops/aravnarula/lighting.md` or `/the-lab/workshops/aravnarula/workshop.md`.
+4. Change the file name in respect to if it's a `lighting talk` or `workshop` to the right folder. For example: `/the-lab/workshops/name-of-workshop.md` or `/the-lab/workshops/your-name.md`.
  
 5. Edit the template with the steps outlined in each template + commit it
 ![img_6.png](images/img_6.png)
