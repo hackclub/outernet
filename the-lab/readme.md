@@ -1,4 +1,6 @@
 # 🧪 The Lab
+[Want to add your submit your lighting talk or workshop](https://github.com/hackclub/outernet/tree/guild-channels/the-lab/experiments)
+
 Home to workshops & lighting talks at Outernet!
 
 Imagine a place where you can learn something new, and come out with something of your own? Something technical or nerdy like your own programming language, or maybe your very own canvas of art or even a restored Mac. There's no limit to what a workshop or lighting talk can be (as long as it's legal :p), the only limit is your imagination!
@@ -7,8 +9,8 @@ The Lab isn't like your typical hackathon or event workshop, it's a space for yo
 
 This is the lab, come help us make it special 
 
+
 [Join the discussion in Slack!](https://hackclub.slack.com/archives/C057ZQL8XKL) <br>
-[View workshops & Lighting Talks!](https://github.com/hackclub/outernet/tree/guild-channels/the-lab/experiments)
 
 
 
