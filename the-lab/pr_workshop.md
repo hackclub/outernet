@@ -21,7 +21,7 @@ slack_username: "FILL THIS OUT"
 ### Do you think you might need anything?
 > We are not able to offer a projecter for workshops, but if you think you might need anything else like hardware boards, or other supplies like paint that you would need us to purchase or have on hand?
 
-[Add everything you might need here]
+[Add anything you might need here]
 
 
 ### People involved
