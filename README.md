@@ -60,7 +60,7 @@ Here's a list of guilds already in the works:
 
 **🧘‍♀️ Orpheus Legion ([#outernet-orpheus-legion](https://hackclub.slack.com/archives/C05FQ0EE1SM))**: Step away from the chaos of the hackathon bustle and step inside a sanctuary of tranquility and inner harmony. Commune peacefully with other hack clubbers as you destress while coloring, doing yoga, making friendship bracelets, reading, or just *breathing*.
 
-**Eco-Pioneers**: Our guild is dedicated to protecting and preserving the environment around the campgrounds; eco-pioneers are passionate about environmental science and innovation. We plan on creating a video collage with the wildlife we come across, working on our environmental engineering projects like bee hives, bird feeders, and solar-powered devices.
+** ♻️ Eco-Pioneers**: Our guild is dedicated to protecting and preserving the environment around the campgrounds; eco-pioneers are passionate about environmental science and innovation. We plan on creating a video collage with the wildlife we come across, working on our environmental engineering projects like bee hives, bird feeders, and solar-powered devices.
 
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
