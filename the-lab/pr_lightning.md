@@ -4,7 +4,7 @@ topic: "FILL THIS OUT"
 slack_username: "FILL THIS OUT"
 ---
 
-## Lighting Talk
+## Lightning Talk
 
 **Some quick reminders:**
 
