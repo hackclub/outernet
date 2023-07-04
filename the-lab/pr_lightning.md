@@ -15,7 +15,7 @@ slack_username: "FILL THIS OUT"
 
 ### Plan
 
-> What do you want  to have your lighting talk about? It can be about anything like art to why JSX is bad, as long it's appropriate.
+> What do you want  to have your lightning talk about? It can be about anything like art to why JSX is bad, as long it's appropriate.
 
 > What would the talk look like? Mention if you're going to have slides!!
 
