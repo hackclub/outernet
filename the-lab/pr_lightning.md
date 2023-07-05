@@ -1,7 +1,7 @@
 ---
-name: "FILL THIS OUT"
-topic: "FILL THIS OUT"
-slack_username: "FILL THIS OUT"
+name: "Muhammad Shakir"
+topic: "How to Make an Impressive LinkedIn Profile."
+slack_username: "Muhammad Shakir"
 ---
 
 ## Lightning Talk
@@ -10,21 +10,37 @@ slack_username: "FILL THIS OUT"
 
 * 3-5 minutes
 * Can be done with slides or no slides (we'd love to see you try!)
-* You will have access to a projecter and/or a whiteboard
+* You will have access to a projector and/or a whiteboard
 * if you need any props, please let us know!
 
 ### Plan
 
-> What do you want  to have your lightning talk about? It can be about anything like art to why JSX is bad, as long it's appropriate.
+> I want to talk about creating an impressive LinkedIn profile.
 
-> What would the talk look like? Mention if you're going to have slides!!
+> Show them the importance of LinkedIn in their career and how LinkedIn is super useful for them and how to create an impressive LinkedIn profile that ranks above 90.
 
-Here's an example: 
+> I'll give some fun and inspiring examples.
 
-* I want to talk about why tabs are better than spaces
-* Show them the difference of tabs and spaces
-* I'll give extreme and funny examples
-* I will show code and use a clip from the internet
-* I will have slides and need a projecter
+> I'll take them step-by-step through creating an impressive LinkedIn profile in just 8 steps.
 
-.. and so forth (you can also write a full paragraph if you'd like).
+> I will have slides and need a projector.
+
+### Outline of My Talk.
+
+1. **Introduction:** Briefly introduce the topic and the importance of a strong LinkedIn profile in today's digital world.
+
+2. **Professional Photo:** Discuss the significance of a professional profile picture as the first impression for viewers.
+
+3. **Compelling Headline:** Explain how to craft a unique and engaging headline that goes beyond just a job title.
+
+4. **Engaging Summary:** Guide on writing a summary that tells a personal story, includes relevant keywords and highlights achievements, skills, and experiences.
+
+5. **Experience and Education:** Discuss how to effectively list experiences and education, emphasizing the importance of including online courses, certifications, and seminars.
+
+6. **Skills, Endorsements, and Recommendations:** Highlight the importance of listing key skills, getting endorsements, and the power of well-written recommendations.
+
+7. **Engaging with Others:** Encourage active participation in LinkedIn groups, commenting on posts, and sharing valuable content to increase visibility.
+
+8. **Conclusion:** Conclude by emphasizing the importance of keeping the LinkedIn profile updated and active, and the role of authenticity in creating a memorable and impressive profile.
+
+9. **Secret Tips 🤐** 
