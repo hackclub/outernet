@@ -4,7 +4,7 @@
 ![img_1.png](images/img_1.png) <br> <br>
 2. Head to your fork of the repo and navigate to ``the-lab`` folder: <br> <br>
    ![img_2.png](images/img_2.png) <br> <br>
-3. Select the appropriate template: `pr_workshop.md` and `pr_lightning.md`: <br> <br>
+3. Select the appropriate template: `pr_workshop.md` and/or `pr_lightning.md`: <br> <br>
    ![img_3.png](images/img_3.png)
 
 4. Change the file name in respect to if it's a `lightning-talk` or `workshop` to the right folder. For example: `/the-lab/workshops/name-of-workshop.md` or `/the-lab/lightning-talk/your-name.md`.
