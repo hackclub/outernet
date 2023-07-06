@@ -1,38 +1,29 @@
 ---
-name: "FILL THIS OUT"
-topic: "FILL THIS OUT"
-slack_username: "FILL THIS OUT"
-time_estimate: "XXX mins"
+name: "ARNAV PANDEY"
+topic: "MARGIN VS PADDING"
+slack_username: "Splitxorpio"
+time_estimate: "30 mins"
 ---
 
-## Workshop name
+## Margin vs Padding 🤔
 
 ### Plan
 
-> What do you want to run, and how do you think it'll be like? (can you give us a rough outline?)
-
-> Are there any resources you think you might use? Have you run something like this before, or have an example (even if it's not related 100%)
+> The workshop is meant to help participants distinguish the difference between Margin and Padding, which are attributes of HTML elements that control how big an element is and how spaced out elements get.
+> The workshop would talk about each attribute using modern-day references and then participants will get to do hands-on exercises on an IDE to help understand the difference more.
+> https://drive.google.com/file/d/1boHxPW803KxOIJpY3li-j1Zt0QeGjN4p/view?usp=drive_link did something like this at Epoch BA
 
 #### Outline
 
-For example:
-
-1. Get people to open sprig.hackclub.com on their computers
-2. Have them make a new project 
-3. Show them some demo code, and helper functions (walk them through everything)
-<br> .. and so forth
+1. I go through a powerpoint/slideshow explaining the differences between margin and padding (should take approximately 5 minutes)
+2. After the powerpoint is done, participants will go on repl.it and create a new HTML repl
+3. In the repl, the participants will explore different margin and padding settings (I will walk them through the different settings)
+4. At the end, participants will compete in creating their own art piece by the use of many different DIVs, color settings and padding/margin settings with HTML/CSS
 
 ### Do you think you might need anything?
 
-> Do you need hardware boards, or other supplies like paint that you would need us to purchase or have on hand? We won't have any projectors available.
-
-_insert equipment here_
+> Possibly a use of a projector to project a slideshow
 
 ### People involved
 
-> List all the people who are running this workshop if it's more than 1!
-
-For example:
-
-* Prophet Orpheus
-* Arav Narula
+> Me myself and I
