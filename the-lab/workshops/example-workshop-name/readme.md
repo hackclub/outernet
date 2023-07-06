@@ -1,5 +1,4 @@
-# How to make a game with Sprig
+# Margin vs Padding workshop
 
 ### People involed
-@tregsthedev
-@randomperson2
+@Splitxorpio
