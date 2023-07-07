@@ -1,4 +1,1 @@
-# Margin vs Padding workshop
-
-### People involed
-@Splitxorpio
+Doing a lightning talk!
