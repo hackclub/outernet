@@ -1,5 +1,5 @@
 ---
-name: "Toby"
+name: "Toby Brown"
 topic: "Build your first full-stack website"
 slack_username: "@toby"
 time_estimate: "30 - 45 minutes"
@@ -26,4 +26,4 @@ I don't think so!
 
 ### People involved
 
-* Toby Brown
+Toby Brown
