@@ -1,3 +1,5 @@
+> Imagine a place where you can learn something new, and come out with something of your own! Something technical or nerdy like your own programming language, or maybe your very own canvas of art or even a restored Mac. There's no limit to what a workshop or lightning talk can be (as long as it's legal :p), the only limit is your imagination!
+
 # How to Submit Your Workshop / Lightning Talk
 
 1. Fork the [``hackclub/outernet``](https://github.com/hackclub/outernet) repo: <br> <br>
