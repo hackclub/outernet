@@ -55,8 +55,6 @@ Here's a list of guilds already in the works:
 
 **📻 Outernet Radio (W2H) ([#outernet-radio](https://hackclub.slack.com/archives/C058XFV7MCK))**: We will set up an amateur radio station under the special event callsign W2H, and operate throughout the weekend.
 
-**🌌 Outernet Space Agency ([#outernet-space-agency](https://hackclub.slack.com/archives/C059DHPQBUG))**: The Outernet Space Agency is a fully-functional* space agency that will be operating throughout Outernet! We'll build rockets, track the stars and satellites, and participate in much more space nerdiness!
-
 **🎬 Film & Movies ([#outernet-film-and-movies](https://hackclub.slack.com/archives/C05EQQ07119))**: Ready for a reel adventure! Immerse yourself into the mesmerizing realm of film, either sitting back and enjoying them or becoming the director yourself.
 
 **🧘‍♀️ Orpheus Legion ([#outernet-orpheus-legion](https://hackclub.slack.com/archives/C05FQ0EE1SM))**: Step away from the chaos of the hackathon bustle and step inside a sanctuary of tranquility and inner harmony. Commune peacefully with other hack clubbers as you destress while coloring, doing yoga, making friendship bracelets, reading, or just *breathing*.
