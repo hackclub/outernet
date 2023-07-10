@@ -21,8 +21,6 @@ Here's a list of guilds already in the works:
 
 **🥾 Hike Club ([#outernet-hike-club](https://hackclub.slack.com/archives/C058JR94NJZ))**: while at base camp, you'll program hardware ready for a hike. We'll need to navigate; maybe you could make a handheld compass with a Pico and a magnetometer? Want to track your fitness? Perhaps hack a pedometer to interface with an Arduino. Have you got an eye for data science? Perhaps use a Raspberry Pi to monitor atmospheric conditions on the way up, and track them via a web app on your phone! Once we're up, we'll analyse all the data we gathered and make a presentation with our findings ready to report back to camp.
 
-
-
 **📻 The Orpheus Show ([#outernet-podcast](https://hackclub.slack.com/archives/C058PP60PFU))**: we're going to bring The Orpheus Show, the community-run Hack Club podcast, live in-person at the outernet!
 
 **☕ Café Orpheus ([#outernet-cafe](https://hackclub.slack.com/archives/C058MNEP9MZ))**: Cafe Orpheus is a 24/7 collaborative space where you can work on projects, enjoy complimentary tea and coffee, and engage in casual chess games. Join us to connect, create, and unwind in a welcoming & musical environment.
@@ -39,7 +37,7 @@ Here's a list of guilds already in the works:
 
 **🎵 Rickrolls & Fun ([#outernet-rickrolls-and-fun](https://hackclub.slack.com/archives/C059DERT540))**: Our guild is designed to celebrate our favorite singer by writing code in the Rickroll Programing language while also having fun with an inflatable pool!
 
-**🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
+**🔨 Public Works ([#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**): A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
 **☁️ Outernet Web Services ([#outernet-web-services](https://app.slack.com/client/T0266FRGM/C05E2N23ZD0/thread/C05E2N23ZD0-1687622068.341089)**): Outernet's own Digital Ocean/AWS-like hosting/compute cloud service, where fellow Hack Clubbers and guilds can spin up instances & host a project, such as a website, blog, or even a podcast! We'll also offer a .outernet domain for your project on [OuterLAN](https://github.com/hackclub/outernet/tree/main#:~:text=%F0%9F%93%B6,troubleshoot%20the%20OuterLAN!)!
 
