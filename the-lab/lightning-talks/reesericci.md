@@ -1,6 +1,6 @@
 ---
 name: "Reese [reesericci] Armstrong"
-topic: "Why public transit and good urban design is important"
+topic: "How America ended up with car-dependent sprawl"
 slack_username: "@reesericci"
 ---
 
@@ -19,4 +19,4 @@ slack_username: "@reesericci"
 
 > What would the talk look like? Mention if you're going to have slides!!
 
-I have no clue what my plan is at the moment, there may or may not be slides. I just know that I will talk about public transit, and probably make the plan the day of.
+I want to talk about how America ended up with car-dependent sprawl everywhere outside of a few major areas. How GM bought up tram networks to kill them, and all the propaganda they did. I definately want to have slides
