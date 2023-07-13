@@ -1,7 +1,7 @@
 ---
 name: "Training a digit recognizing Neural Network with PyTorch"
 topic: AI/Deep learning
-slack_username: @eggo emilyy
+slack_username: eggo emilyy
 time_estimate: "60 mins"
 ---
 
