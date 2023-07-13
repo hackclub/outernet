@@ -16,9 +16,11 @@ slack_username: JordanKrishnayah / Jordan
 ### Plan
 
 > What do you want  to have your lightning talk about? It can be about anything like art to why JSX is bad, as long it's appropriate.
+
 I plan to do a lightning talk on coffee, why it's great (flavor, energy, and the social aspect it brings) and how to break away from spending so much money on it.
 
 > What would the talk look like? Mention if you're going to have slides!!
+
 Slides showing my dunkins spending habits, photo of the dunkins outside my school, and photo of aeropress.
 
 
