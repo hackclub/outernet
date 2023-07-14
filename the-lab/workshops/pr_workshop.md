@@ -1,1 +1,0 @@
-Doing a lightning talk!
