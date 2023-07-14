@@ -42,6 +42,8 @@ Here's a list of guilds already in the works:
 
 **🔨 Public Works [#outernet-public-works](https://hackclub.slack.com/archives/C058KCCBQJH)**: A guild for large infrustrucure projects! We're building a windmill, a water purifier, and a dam (if there's a creek).
 
+**🎶 Outernet Band [#outernet-band](https://hackclub.slack.com/archives/C05A91ZSP6U)**: Play instruments and have fun in the Outernet Band, where we'll listen to music and learn songs! Maybe we'll even play them at a concert! 👀 
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
