@@ -1,7 +1,7 @@
 ---
 name: Mason Meirs
 topic: Type Systems
-slack_username: @mason
+slack_username: mason
 ---
 
 ## Lightning Talk
