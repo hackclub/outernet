@@ -10,9 +10,11 @@ time_estimate: "60 mins"
 ### Plan (Tentative)
 
 > What do you want to run, and how do you think it'll be like? (can you give us a rough outline?)
+
 The aim of this workshop is to introduce high school students to the basics of Neural Networks and PyTorch, a popular machine-learning framework. By the end of the workshop, participants should be able to build a simple image classification neural network that can recognize handwritten digits using the MNIST dataset.
 
 > Are there any resources you think you might use? Have you run something like this before, or have an example (even if it's not related 100%)
+
 I ran this workshop at [Assemble](https://github.com/emilyjiayaoli/HoloTicTacToe) last year. Neural network wise I have trained much more complicated models before so this should be straightforward.
 
 #### Outline
