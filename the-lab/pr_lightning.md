@@ -1,3 +1,9 @@
+---
+ name: "FILL THIS OUT"
+ topic: "FILL THIS OUT"
+ slack_username: "FILL THIS OUT"
+ ---
+
 ## Lightning Talk
 
 **Some quick reminders:**
