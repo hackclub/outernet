@@ -63,6 +63,8 @@ Here's a list of guilds already in the works:
 
 ** ♻️ Eco-Pioneers**: Our guild is dedicated to protecting and preserving the environment around the campgrounds; eco-pioneers are passionate about environmental science and innovation. We plan on creating a video collage with the wildlife we come across, working on our environmental engineering projects like bee hives, bird feeders, and solar-powered devices.
 
+**🖨️ 3D Printing ([#outernet-3d-printing](https://hackclub.slack.com/archives/C05JR3HRA57))**: Interested in enhancing your hacks with some 3D-printed parts? We'll have four printers that you'll be able to use to fabricate whatever you like!
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
