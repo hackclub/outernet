@@ -28,5 +28,7 @@ More coming soon here! For now, here's a photo of everyone at Outernet:
 
 ### Food
 
-## In Retrospective...
 ### Setup
+
+## In Retrospective...
+
