@@ -1,3 +1,4 @@
+> This document described the concepts of guilds. It was the `README.md` of this repository in the lead-up to Outernet.
 
 # [Outernet](https://outernet.hackclub.com): what are guilds?
 
