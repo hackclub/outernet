@@ -10,21 +10,48 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 ## The Concept
 
+* Out of comfort zone
+* New experience
+* Build our own village
+* Choose your own adventure
+
 ## Finding The Space
+
+* What we needed
+* Some of our attempts
+* Where we landed
 
 ## The Hackathon
 
-### Hardware Shack
+* General challenge / general goal for the event to be technical
 
 ### Spaces for Hacking
 
+* What we needed
+* What we ended up with
+
+#### Hardware Shack
+
+#### The Cafe
+
 ### Guilds
+
+* General description
+* Link to guilds.md
 
 ### Workshops & Lightning Talks
 
+* General description
+* Link to workshops-and-lightning-talks
+
 ### The Internet
 
+* General description from Reese
+
 ### Shipping & Demos
+
+* Back story
+* General description
 
 ## The Camping Experience
 
@@ -32,9 +59,17 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 ### Entertainment 
 
+* why have entertainment?
+* woody's stuff
+* day stuff
+* fire stuff
+
 ### Food
 
 ### Setup
 
 ## In Retrospective...
 
+* the challenges of organising an outdoors event
+* the impact of an outdoors event
+* specific things related to Outernet
