@@ -1,6 +1,6 @@
 # 🏕️ Outernet
 
-Every summer, Hack Clubbers do something special. In 2023 we ventured out to the [Northeast Kingdom](https://en.wikipedia.org/wiki/Northeast_Kingdom) of Vermont for Outernet — a four-day experimental coding / camping trip. We turned a semi-abandonded campsite into a bustling hacker oasis.
+Every summer, Hack Clubbers do something special. In 2023 we ventured out to the [Northeast Kingdom](https://en.wikipedia.org/wiki/Northeast_Kingdom) of Vermont for Outernet — a four-day experimental coding / camping trip. Together, we turned a semi-abandonded campsite into a bustling hacker oasis.
 
 This is the story of how and why we did it.
 
