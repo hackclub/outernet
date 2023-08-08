@@ -22,6 +22,8 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 ### Workshops & Lightning Talks
 
+### The Internet
+
 ### Shipping & Demos
 
 ## The Camping Experience
