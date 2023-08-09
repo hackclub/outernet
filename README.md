@@ -10,6 +10,8 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 ## The Concept
 
+Magical moments happen when we take people out of their comfort zone.
+
 * Out of comfort zone
 * New experience
 * Build our own village
