@@ -41,25 +41,37 @@ We went and visited the space. It was perfect. (And now we were able to launch).
 
 ## The Hackathon
 
-* General challenge / general goal for the event to be technical
+This is Hack Club. We wanted it to be a technical event. The great outdoors can be a really productive place and nature can serve as great inspiration for technical projects; it can also be very distracting. We wanted people to enjoy the uniqueness of the outdoors and build cool shit at the same time. It was all about finding a balance.
 
 ### Spaces for Hacking
 
-* What we needed
-* What we ended up with
+First of all, people need space to build their projects! In an office, this is easy, everyone sits at desks and shared tables. That sort of space doesn't exist by default at a campground. We'd need to create it. We boiled it down to people needing comfortable seating with tables on which they could collaborate. 
 
-#### Hardware Shack
+We ended up setting up outdoor seating as well as three indoor makerspaces: The Barn / The Hardware Shack, The Cafe, and The Cookhouse. All the indoor spaces had tables set up with four to eight chairs.
+
+#### The Barn / The Hardware Shack
+
+The Barn was a multipurpose space for us during the event. During the day, it was "The Hardware Shack", meanwhile, at night it was the home of our performances and late-night get togethers (more on that later!). The Hardware Shack was the great work of Kevin & Cheru, Hack Clubbers in Boston (MA) & Burlington (VT) respectivly. The space was stocked full of old electronic toys (from Goodwill), assorted electronics parts, all sorts of hand tools and four 3D printers. The space was incredible and all the tools inspired some super cool projects (check them out!).
 
 #### The Cafe
 
+The Cafe was a community-ran space; they had barista service 24/7, relaxing music playing on a record player, and art on all of the walls. It became a really nice space for hackers looking for some quite focus time away from the bustle of The Barn and The Cookhouse as they worked on their projects. We also hosted workshops in The Cafe.
+
+#### The Cookhouse
+
+Lastly, we had The Cookhouse. It was also a multipurpose space during the event; alongside being a makerspace, we'd also serve meals (hence the name) and hosted lightning talks in there. It was the most flexible of spaces we had. 
+
 ### Guilds
 
-* General description
-* Link to guilds.md
+Guilds were a framework for hackers to do things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds were much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
+
+Guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at `guilds.md`.
+
+* Ask Alex to expand
 
 ### Workshops & Lightning Talks
 
-* General description
+* General description from Aarya
 * Link to workshops-and-lightning-talks
 
 ### The Internet
