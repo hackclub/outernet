@@ -78,12 +78,27 @@ Guilds brought the campground alive. Each of them brought their own unique thing
 
 * General description from Reese
 
+### Goal-setting
+
+We needed create the expectation amongst attendees that Outernet would be a technical event.
+
 ### Shipping & Demos
 
-* Back story
-* General description
+Demos are the culmination of a hackathon, it's important for hackers to leave feeling fulfilled and like they've acheived something of the weekend. It also gives everyone a special oppourtinity to see what others made over the weekend and celebrate one another's work. 
+
+Shipping start from the first hour of Outernet, we set up a big banner in the town square for people to write about the ships. The goal was for the banner to be full by the end of the weekend.
+
+The thinking here was that we would be able to encourage people to build as many projects as they'd like during the event. It also gave the group a collective goal, we'd all win if the board was filled (in contrast to one project being selected as the definite "winner").
+
+At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects from. Everyone had a board like this:
+
+On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). This left people feeling fulfilled and brought everyone together. The focus was on celebrating everyone. 
+
+And then after everyone had shown of their projects to each other, we gathered in the town square again. This time everyone could get up on the rock and give a quick pitch / demo of their project. This was special because everyone got to hoot and hooler for everyone's projects, providing closure to the weekend and the special feeling of being appreciated by a crowd.
 
 ## The Camping Experience
+
+That's the technical side! But we also wanted to have fun! And that's where camping came in. Camping is incredible, the shared hardship of it is able to bring people together. We had to make sure that everyone was set up to camping and that there were great things to do all weekend so that people could make friends and have fun. 
 
 ### Sleeping
 
