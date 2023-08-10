@@ -102,16 +102,48 @@ That's the technical side! But we also wanted to have fun! And that's where camp
 
 ### Sleeping
 
-### Entertainment 
+Everyone needs a place to sleep - we needed to acquire tents and camping supplies for over 150 people. We worked with a local company called KitLender and hired in additional staff (our tent crew). They provided us a collection of 6 to 12 person tents (we didn't have them at full capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow and a headlight.
 
+We also had to make sure that everyone found a place to sleep! That's where the sleeping pods came in. At check-in, we sorted folks into groups of approximately 20 people. They had a leader who would help them get settled in and then they'd all sleep in a similar area. 
+
+It was certainly a change up from previous hackathons! In some ways, sleeping with comfortable gear is an improvement but sleeping in a shared space was certainly a new experience for some.
+
+### Shenangians & Entertainment 
+
+Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
+
+All of our entertainment was coordinated by Woody - an incredible actor and performer, and professional clown. We've known him for a couple of years now since he was Zach's landlord. 
+
+On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. That was followed by an opening ceremony and the first ship on the ship board!
+
+It was late so people then headed off to do starting hacking, grab some Ben & Jerry's, do their own thing with new friends, or sleep.
+
+We were up early the next morning and after a hearty breakfast, we broke the ice with a game ran by Sunny Day (a parody camp counselor who hung around for the weekend) and Woody.
+
+Then it was off to hacking!
+
+That night we had a show. We had Circus, we had a band and we had physical comedy. Gave everyone a laugh even though it rained.
+
+After dinner and a convienntly timed rainbow, the sun set and we gathered back around the fire for the shrine of the ship! It was madness. We had bongos going, cult-like chanting about shipping projects (the goal was to rally up excitement about demos), campfire songs (Wonderwall!) and smores (in return for a ship on the banner).
+
+And as we got deeper into the night, people started slowly heading off to sleep but then we had a DISCO. It was ran by Sarthak & the rave guild. We mixed it up with cake and celsius! It was wild, Zach even danced to bollywood.
+
+Everyone woke up very late that morning. It was a slow start and the day was focused on heads-down hacking. (That was until the afternoon... where we had a break to have a water ballon fight and a boat building competition). 
+
+After demos though it was time to celebrate! We had a (late night) Early Evening Show with a character named Mike Miclon. It featured interviews, bizarre performances and a charismatic host... plus a qualified doctor.
+
+We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and light up the lake with floating lanterns. The moon was very large that night and it was a lovely closing to the day.
+
+<!--
 * why have entertainment?
 * woody's stuff
 * day stuff
 * fire stuff
+-->
 
 ### Food
 
-### Setup
+We were in the middle of nowhere, we needed to make our own food! We had a full industrial kitchen. We hired Lonny and his crew to make a homemade meal every night. For our dinners, we had baked ziti, hamburgers, hot dogs, and pasta. For lunch we did build-your-own sandwiches. For most days, breakfast was fairly simple (yogurt, cereal, breads etc. but on Sunday morning, we made it special by having our own pancakes. It was all super tasty and it was nice that a lot of ingredients were local (eg. the maple syrup for the pancakes was made literally next door).
 
 ## In Retrospective...
 
