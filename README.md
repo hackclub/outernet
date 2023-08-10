@@ -71,7 +71,7 @@ Guilds brought the campground alive. Each of them brought their own unique thing
 
 ### Workshops & Lightning Talks
 
-* General description from Aarya
+* General description from Arav
 * Link to workshops-and-lightning-talks
 
 ### The Internet
