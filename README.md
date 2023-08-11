@@ -44,13 +44,11 @@ We went and visited the space, it was exactly what we were looking for.
 
 Nature can serve as great inspiration for technical projects; it can also be uncomfortable and distracting. We wanted people to find a balance between exploring the outdoors and coming together to program.
 
-We'd need to provide: space, inspiration, and an end goal.
+For Outernet to work as a hackathon, we'd need to provide: space, inspiration, and an end goal.
 
 ### Creating The Space
 
-First of all, people need space to build their projects! In an office, this is easy, everyone sits at desks and shared tables. That sort of space doesn't exist by default at a campground. We'd need to create it. We boiled it down to people needing comfortable seating with tables on which they could collaborate. 
-
-We ended up setting up outdoor seating as well as three indoor makerspaces: The Barn / The Hardware Shack, The Cafe, and The Cookhouse. All the indoor spaces had tables set up with four to eight chairs.
+By default, your classic hackathon chair and table setup doesn't exist at a campground. We set up outdoor seating around the campground as well as three indoor makerspaces: The Barn / The Hardware Shack, The Cafe, and The Cookhouse. Each makerspace had tables and chairs layed out for hackers to work from.
 
 #### The Barn / The Hardware Shack
 
