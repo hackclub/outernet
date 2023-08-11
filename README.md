@@ -18,7 +18,9 @@ We're surrounded by incredible nature out here in Vermont, it was a great opport
 
 Once we felt confident about running an event outdoors, we started looking for a format. Our initial plan was to focus the event around the concept of building our own hacker village. We were taking inspiration from European hacker camps (eg. [Electromagnetic Field](https://www.emfcamp.org/)), [ToorCamp](https://toorcamp.toorcon.net/), and Burning Man. The idea behind building a hacker village would morph into [guilds](#guilds). Over time, however, our focus became less on the village and more on an individual's experience. We started working with this idea of Outernet being a choose your own adventure event. At previous events of ours, it had always felt like the best moments were the ones attendees created for themselves. We'd find the space, attendees would create their experience. 
 
-Then there was the (slightly contentious) question of "to what extent is Outernet a hackathon?". We wanted everyone to be making and shipping projects just as they would at a hackathon. At the same time, we wanted a hacker's experience to be personalised and flexible. Our approach would be to make Outernet the perfect enviroment for building outdoors and to create an atmosphere in the camp where the cool thing to do at any given time was to be making cool things. Over the weekend, you could ship as many things as you wanted. The group's goal was to fill our wall of ships:
+Then there was the (slightly contentious) question of "to what extent is Outernet a hackathon?". We wanted everyone to be making and shipping projects just as they would at a hackathon. At the same time, we wanted a hacker's experience to be personalised and flexible. Our approach would be to make Outernet the perfect enviroment for building outdoors and to create an atmosphere in the camp where the cool thing to do at any given time was to be making cool things. Over the weekend, you could ship as many things as you wanted. 
+
+The group's goal was to fill our wall of ships:
 
 <img src="https://github.com/hackclub/outernet/assets/39828164/a61ab4e6-a3d8-4b2f-946a-240c11ca061e" width="600px" />
 
