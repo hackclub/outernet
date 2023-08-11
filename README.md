@@ -10,34 +10,31 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 ## The Concept
 
-Magical moments happen when we take people out of their comfort zone. We've ran countless hackathons indoors, how about doing one outdoors? The idea was floated early on in planning discussion and it kind of just stuck around. As we got more confident in the idea of doing it outdoors, we started to plan around this idea of building our own hacker village. We took inspiration from European hacker camps (eg. [Electromagnetic Field](https://www.emfcamp.org/)), [ToorCamp](https://toorcamp.toorcon.net/), and Burning Man. And with that, Outernet was born*.
+Magical moments happen when we take people out of their comfort zone. We've ran countless hackathons in flash indoor spaces, how about doing one outdoors? 
 
-At this point the concept was still a bit unclear (and, to be honest it kind of was all the way up until the week of the event). The idea behind building a hacker village would morph into guilds (see below). Over time, however, our focus became less on the village and more on an individual's experience. We started working with this idea of Outernet being a choose your own adventure event. The thinking behind that was that at previous events, it had always felt like the best moments were the once attendees created for themselves. 
+[outdoors]
 
-Lastly, there was the question of "to what extent is Outernet a hackathon?". Here's where there was a lot of back and forth on the team. We wanted everyone to be making and shipping projects like at a hackathon but we didn't want to have the compeditive aspect of it. We also had to deal with the fact that the internet would (by design) be imperfect and that that would make collaboration hard. We landed with running Outernet as a hackathon where you could ship as many things as you wanted (encouraging simpler projects) and, in the end, we'd all win together.
+Once we felt confident about running an event outdoors, we started looking for a format. Our initial plan was to focus the event around the concept of building our own hacker village. We were taking inspiration from European hacker camps (eg. [Electromagnetic Field](https://www.emfcamp.org/)), [ToorCamp](https://toorcamp.toorcon.net/), and Burning Man. The idea behind building a hacker village would morph into [guilds](#guilds). Over time, however, our focus became less on the village and more on an individual's experience. We started working with this idea of Outernet being a choose your own adventure event. At previous events of ours, it had always felt like the best moments were the ones attendees created for themselves. We'd find the space, attendees would create their experience. 
 
-<!--
-* Out of comfort zone
-* New experience
-* Build our own village
-* Choose your own adventure
--->
+Then there was the (slightly contentious) question of "to what extent is Outernet a hackathon?". We wanted everyone to be making and shipping projects just as they would at a hackathon. At the same time, we wanted a hacker's experience to be personalised and flexible. Our approach would be to make Outernet the perfect enviroment for building outdoors and to create an atmosphere in the camp where the cool thing to do at any given time was to be making cool things. Over the weekend, you could ship as many things as you wanted. The group's goal was to fill our wall of ships:
+
+<img src="https://github.com/hackclub/outernet/assets/39828164/a61ab4e6-a3d8-4b2f-946a-240c11ca061e" width="600px" />
+
+The weekend would close out with us all coming together to celebrate and demo everything we shipped over the weekend. WIth a full wall of ships, we'd all have succeeded together.
 
 ## Finding The Space
 
-At this point, we'd normally start reaching out to companies to ask to use their office. Not this time... we needed to find a campground. That brings in all sorts of considerations, septic tanks for example! Serious. Our starting point was a connection to a festival venue in Upstate NY: [Otis Mountain](https://otismountain.com/info). We ran with that for a long time but, eventually, the complexity of it caught up with us. We wouldn't have running water, septic tanks, a connection to the grid, or a waste disposal service. So, we were back on the hunt for a venue. 
+At this point, we'd normally start reaching out to companies to ask to use their office. Not this time... we needed to find a campground. That brings in all sorts of considerations, septic tanks for example! Serious. Our starting point was a connection to a festival venue in Upstate NY: [Otis Mountain](https://otismountain.com/info).
+
+<img width="1025" alt="Screenshot 2023-08-11 at 11 50 48 AM" src="https://github.com/hackclub/outernet/assets/39828164/45ec34a4-f361-4cf8-8ee3-c58fb3a4917c">
+
+We ran with that for a long time but, eventually, the complexity of it caught up with us. We wouldn't have running water, septic tanks, a connection to the grid, or a waste disposal service. So, we were back on the hunt for a venue.
 
 And that was tough. We searched far and wide. We tried working with a retreat venue. They wanted $50k. We almost used a nudist colony. They refused to give us exclusive access. Then, an old friend of Woody's called him back. He was the owner of an old Christian campground named Covenant Hills. They hadn't been fully operational since 2015 but they had large shelters, a connection to the power grid, a large underground water tank, regualar waste removal, functional toilets, lukewarm showers, and suprisingly fast DSL internet. It wouldn't be glamping but it was a nice balance between comfort and discomfort. 
 
 We were all on a Zoom call when they called back... when we heard from Woody, a big wave of relief swept the room. Hooray!
 
 We went and visited the space. It was perfect. (And now we were able to launch).
-
-<!--
-* What we needed
-* Some of our attempts
-* Where we landed
--->
 
 ## The Hackathon
 
@@ -133,13 +130,6 @@ Everyone woke up very late that morning. It was a slow start and the day was foc
 After demos though it was time to celebrate! We had a (late night) Early Evening Show with a character named Mike Miclon. It featured interviews, bizarre performances and a charismatic host... plus a qualified doctor.
 
 We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and light up the lake with floating lanterns. The moon was very large that night and it was a lovely closing to the day.
-
-<!--
-* why have entertainment?
-* woody's stuff
-* day stuff
-* fire stuff
--->
 
 ### Food
 
