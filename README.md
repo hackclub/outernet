@@ -42,9 +42,11 @@ We went and visited the space, it was exactly what we were looking for. It was t
 
 ## The Hackathon
 
-This is Hack Club. We wanted it to be a technical event. The great outdoors can be a really productive place and nature can serve as great inspiration for technical projects; it can also be very distracting. We wanted people to enjoy the uniqueness of the outdoors and build cool shit at the same time. It was all about finding a balance.
+Nature can serve as great inspiration for technical projects; it can also be uncomfortable and distracting. We wanted people to find a balance between exploring the outdoors and coming together to program.
 
-### Spaces for Hacking
+We'd need to provide: space, inspiration, and an end goal.
+
+### Creating The Space
 
 First of all, people need space to build their projects! In an office, this is easy, everyone sits at desks and shared tables. That sort of space doesn't exist by default at a campground. We'd need to create it. We boiled it down to people needing comfortable seating with tables on which they could collaborate. 
 
@@ -60,30 +62,22 @@ The Cafe was a community-ran space; they had barista service 24/7, relaxing musi
 
 #### The Cookhouse
 
-Lastly, we had The Cookhouse. It was also a multipurpose space during the event; alongside being a makerspace, we'd also serve meals (hence the name) and hosted lightning talks in there. It was the most flexible of spaces we had. 
+Lastly, we had The Cookhouse. It was also a multipurpose space during the event; alongside being a makerspace, we'd also serve meals (hence the name) and hosted lightning talks in there. It was the most flexible of spaces we had.
 
-### Guilds
+#### The Internet
 
-Guilds were a framework for hackers to do things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds were much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
+* General description from Reese
 
-Guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at `guilds.md`.
-
-* Ask Alex to expand
-
-### Workshops & Lightning Talks
+#### Workshops & Lightning Talks
 
 * General description from Arav
 * Link to workshops-and-lightning-talks
 
-### The Internet
-
-* General description from Reese
-
-### Goal-setting
+### Providing Inspiration
 
 We needed create the expectation amongst attendees that Outernet would be a technical event.
 
-### Shipping & Demos
+### The End Goal: Shipping & Demos
 
 Demos are the culmination of a hackathon, it's important for hackers to leave feeling fulfilled and like they've acheived something of the weekend. It also gives everyone a special oppourtinity to see what others made over the weekend and celebrate one another's work. 
 
@@ -108,6 +102,14 @@ Everyone needs a place to sleep - we needed to acquire tents and camping supplie
 We also had to make sure that everyone found a place to sleep! That's where the sleeping pods came in. At check-in, we sorted folks into groups of approximately 20 people. They had a leader who would help them get settled in and then they'd all sleep in a similar area. 
 
 It was certainly a change up from previous hackathons! In some ways, sleeping with comfortable gear is an improvement but sleeping in a shared space was certainly a new experience for some.
+
+### Guilds
+
+Guilds were a framework for hackers to do things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds were much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
+
+Guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at `guilds.md`.
+
+* Ask Alex to expand
 
 ### Shenangians & Entertainment 
 
