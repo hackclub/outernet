@@ -93,11 +93,14 @@ The thinking here was that we would be able to encourage people to build as many
 
 At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects from. Everyone had a board like this:
 
-<img width="600px" alt="Screenshot 2023-08-11 at 2 22 08 PM" src="https://github.com/hackclub/outernet/assets/39828164/13309204-5cf9-43c6-950a-653230185692">
+<img width="600" alt="Screenshot 2023-08-11 at 2 25 24 PM" src="https://github.com/hackclub/outernet/assets/39828164/48ee9803-256d-441e-8b74-327767845bfb">
 
-On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). This left people feeling fulfilled and brought everyone together. The focus was on celebrating everyone. 
+On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). Demos brought everyone together and left people with a sense of achievement.
 
-And then after everyone had shown of their projects to each other, we gathered in the town square again. This time everyone could get up on the rock and give a quick pitch / demo of their project. This was special because everyone got to hoot and hooler for everyone's projects, providing closure to the weekend and the special feeling of being appreciated by a crowd.
+After everyone had shown of their projects to each other, we gathered in the town square again. This time everyone could get up on the rock and give a quick pitch / demo of their project. Everyone hooted and hollered for each other's projects; it was a special moment that provided closure to the weekend and the special feeling of being appreciated by a crowd.
+
+<img height="200" alt="Screenshot 2023-08-11 at 2 33 59 PM" src="https://github.com/hackclub/outernet/assets/39828164/55d1b0d3-23b4-45c7-bdcb-845e22129666"> <img height="200" alt="Screenshot 2023-08-11 at 2 34 27 PM" src="https://github.com/hackclub/outernet/assets/39828164/07b55ad7-a210-4349-b702-d9a4125daa8a"> <img height="200" alt="Screenshot 2023-08-11 at 2 34 37 PM" src="https://github.com/hackclub/outernet/assets/39828164/a350437d-0452-437c-93e0-3ed23cddf843">
+
 
 ## The Camping Experience
 
