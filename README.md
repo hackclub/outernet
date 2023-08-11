@@ -58,7 +58,9 @@ The Barn was a multipurpose space. During the day, it was "The Hardware Shack", 
 
 #### The Cafe
 
-The Cafe was a community-ran space; they had barista service 24/7, relaxing music playing on a record player, and art on all of the walls. It became a really nice space for hackers looking for some quite focus time away from the bustle of The Barn and The Cookhouse as they worked on their projects. We also hosted workshops in The Cafe.
+The Cafe was a community-ran space; they had barista service 24/7, relaxing music playing on a record player, and art on all of the walls. It became a really nice space for hackers looking for some quite focus time away from the bustle of The Barn and The Cookhouse as they worked on their projects.
+
+<img width="600px" alt="Screenshot 2023-08-11 at 2 12 52 PM" src="https://github.com/hackclub/outernet/assets/39828164/168f5ff5-ca65-44d9-8814-a7baad487f31">
 
 #### The Cookhouse
 
