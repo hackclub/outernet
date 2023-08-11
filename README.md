@@ -54,7 +54,7 @@ By default, your classic hackathon chair and table setup doesn't exist at a camp
 
 The Barn was a multipurpose space. During the day, it was "The Hardware Shack", meanwhile, at night it was the home of our performances and our late-night get togethers (more on that later!). The Hardware Shack was the great work of Kevin & Cheru, Hack Clubbers in Boston (MA) & Burlington (VT) respectively. The space was stocked full of old electronic toys (from Goodwill), assorted electronics parts, all sorts of hand tools and four 3D printers.
 
-<img width="600px" alt="Screenshot 2023-08-11 at 2 09 56 PM" src="https://github.com/hackclub/outernet/assets/39828164/11a70784-ae42-4b58-9a30-80c3479edfa1"> <img width="600px" alt="Screenshot 2023-08-11 at 2 10 11 PM" src="https://github.com/hackclub/outernet/assets/39828164/31fbbf50-9596-4954-9c27-ec77d2da43a7">
+<img width="300px" alt="Screenshot 2023-08-11 at 2 09 56 PM" src="https://github.com/hackclub/outernet/assets/39828164/11a70784-ae42-4b58-9a30-80c3479edfa1"> <img width="300px" alt="Screenshot 2023-08-11 at 2 10 11 PM" src="https://github.com/hackclub/outernet/assets/39828164/31fbbf50-9596-4954-9c27-ec77d2da43a7">
 
 #### The Cafe
 
