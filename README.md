@@ -12,7 +12,7 @@ Our goal is to open-source everything we have about Outernet from half-baked ide
 
 Magical moments happen when we take people out of their comfort zone. We've ran countless hackathons in flash indoor spaces, how about doing one outdoors? 
 
-[outdoors]
+We're surrounded by incredible nature out here in Vermont, it was a great opportunity to do something different. As organisers, we were venturing out of our comfort zones ourselves. That was both exciting and scary for us. We knew that exploring the outdoors would leave attendees with an experience they'd treasure for the rest of their lives; that's what convinced us to go for it.
 
 Once we felt confident about running an event outdoors, we started looking for a format. Our initial plan was to focus the event around the concept of building our own hacker village. We were taking inspiration from European hacker camps (eg. [Electromagnetic Field](https://www.emfcamp.org/)), [ToorCamp](https://toorcamp.toorcon.net/), and Burning Man. The idea behind building a hacker village would morph into [guilds](#guilds). Over time, however, our focus became less on the village and more on an individual's experience. We started working with this idea of Outernet being a choose your own adventure event. At previous events of ours, it had always felt like the best moments were the ones attendees created for themselves. We'd find the space, attendees would create their experience. 
 
