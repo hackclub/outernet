@@ -87,9 +87,13 @@ Demos are the culmination of a hackathon, it's important for hackers to leave fe
 
 Shipping start from the first hour of Outernet, we set up a big banner in the town square for people to write about the ships. The goal was for the banner to be full by the end of the weekend.
 
+<img width="600px" alt="Screenshot 2023-08-11 at 2 20 35 PM" src="https://github.com/hackclub/outernet/assets/39828164/582fc68f-c4c0-428b-9eda-cec3f1c11088">
+
 The thinking here was that we would be able to encourage people to build as many projects as they'd like during the event. It also gave the group a collective goal, we'd all win if the board was filled (in contrast to one project being selected as the definite "winner").
 
 At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects from. Everyone had a board like this:
+
+<img width="600px" alt="Screenshot 2023-08-11 at 2 22 08 PM" src="https://github.com/hackclub/outernet/assets/39828164/13309204-5cf9-43c6-950a-653230185692">
 
 On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). This left people feeling fulfilled and brought everyone together. The focus was on celebrating everyone. 
 
