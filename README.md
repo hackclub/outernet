@@ -24,17 +24,21 @@ The weekend would close out with us all coming together to celebrate and demo ev
 
 ## Finding The Space
 
-At this point, we'd normally start reaching out to companies to ask to use their office. Not this time... we needed to find a campground. That brings in all sorts of considerations, septic tanks for example! Serious. Our starting point was a connection to a festival venue in Upstate NY: [Otis Mountain](https://otismountain.com/info).
+We wanted to do something outdoors, but where? We needed to find a campground for Outernet. Our starting point was a connection to a festival venue in Upstate NY: [Otis Mountain](https://otismountain.com/info).
 
-<img width="1025" alt="Screenshot 2023-08-11 at 11 50 48 AM" src="https://github.com/hackclub/outernet/assets/39828164/45ec34a4-f361-4cf8-8ee3-c58fb3a4917c">
+<img width="600px" alt="Tents set up at Otis Mountain" src="https://github.com/hackclub/outernet/assets/39828164/45ec34a4-f361-4cf8-8ee3-c58fb3a4917c">
 
-We ran with that for a long time but, eventually, the complexity of it caught up with us. We wouldn't have running water, septic tanks, a connection to the grid, or a waste disposal service. So, we were back on the hunt for a venue.
+We ran with that for a long time but, eventually, the complexity of it caught up with us. We wouldn't have running water, septic tanks, a connection to the grid, or a waste disposal service. We were back on the hunt for a venue.
 
-And that was tough. We searched far and wide. We tried working with a retreat venue. They wanted $50k. We almost used a nudist colony. They refused to give us exclusive access. Then, an old friend of Woody's called him back. He was the owner of an old Christian campground named Covenant Hills. They hadn't been fully operational since 2015 but they had large shelters, a connection to the power grid, a large underground water tank, regualar waste removal, functional toilets, lukewarm showers, and suprisingly fast DSL internet. It wouldn't be glamping but it was a nice balance between comfort and discomfort. 
+We tried working with a retreat venue. They wanted $50k. 
 
-We were all on a Zoom call when they called back... when we heard from Woody, a big wave of relief swept the room. Hooray!
+We almost went with a nudist colony. They refused to give us exclusive access. 
 
-We went and visited the space. It was perfect. (And now we were able to launch).
+It wasn't looking good, then, an old friend of [Woody](https://woody.vercel.app/) called him back. He was the owner of an old Christian campground, [Covenant Hills Camp](https://covenanthillsvt.org/) in the Northeast Kingdom. They hadn't been fully operational since 2015 but they had large shelters, a connection to the power grid, a large underground water tank, regualar waste removal, functional toilets, lukewarm showers, and suprisingly fast DSL internet. Whilst it wouldn't be glamping, Covenant Hills provided us a nice balance between having basic necessities and taking hackers out of their comfort zone. 
+
+<img src="https://github.com/hackclub/outernet/assets/39828164/4ae45014-e289-4282-b56c-3163a0d733ca" width="300px" /> <img src="https://github.com/hackclub/outernet/assets/39828164/0621f760-07ca-4aa0-895f-3d4428c53cd1" width="300px" />
+
+We went and visited the space, it was exactly what we were looking for. It was time to launch.
 
 ## The Hackathon
 
