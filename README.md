@@ -38,7 +38,7 @@ It wasn't looking good, then, an old friend of [Woody](https://woody.vercel.app/
 
 <img src="https://github.com/hackclub/outernet/assets/39828164/4ae45014-e289-4282-b56c-3163a0d733ca" width="300px" /> <img src="https://github.com/hackclub/outernet/assets/39828164/0621f760-07ca-4aa0-895f-3d4428c53cd1" width="300px" />
 
-We went and visited the space, it was exactly what we were looking for. It was time to launch.
+We went and visited the space, it was exactly what we were looking for.
 
 ## The Hackathon
 
