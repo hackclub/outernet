@@ -166,7 +166,7 @@ We were in the middle of nowhere, we needed to make our own food! We had a full 
 | Year | Project | Description |
 | ---- | ------- | ----------- |
 | 2023 | [Outernet](https://outernet.hackclub.com) | _This repo!_ |  
-| 2023 | [Epoch](https://epoch.hackclub.com) | A magical New Year's spent hacking in New Delhi, our first flagship event abroad / in India! ([repo](https://github.com/hackclub/epoch)) ([finances](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing)) ([photos](https://hack.af/epoch-photos)) |
+| 2023 | [Epoch](https://epoch.hackclub.com) | A magical New Year's spent hacking in New Delhi, our first flagship event abroad / in India. ([repo](https://github.com/hackclub/epoch)) ([finances](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing)) ([photos](https://hack.af/epoch-photos)) |
 | 2022 | [Assemble](https://assemble.hackclub.com) | The first high school hackathon since the pandemic! ([repo](https://github.com/hackclub/assemble)) ([finances](https://bank.hackclub.com/assemble)) ([photos](https://hack.af/assemble-photos))|
 | 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr) | A cross-country hacker adventure on a train. ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr)) |
 | 2020 | [Summer of Making](https://summer.hackclub.com)| $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making)) |
