@@ -80,7 +80,7 @@ The spaces we were using for hacking had internet access, powered by the [OuterL
 
 We wanted our hacking spaces to also serve as spaces for learning and picking up new skills. Throughout the weekend, we hosted a collection of workshops around the camp and had daily lightning talk sessions. _[...general description from Arav]_  
 
-Every workshop and lightning talk's outline can be found in [/workshops-and-lightning-talks](/workshops-and-lightning-talks).
+Every workshop and lightning talk's outline can be found in [`/workshops-and-lightning-talks`](/workshops-and-lightning-talks).
 
 ### Providing Inspiration
 
