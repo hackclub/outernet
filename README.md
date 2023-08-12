@@ -112,15 +112,15 @@ After everyone had shown of their projects to each other, we gathered in the tow
 
 ## The Camping Experience
 
-That's the technical side! But we also wanted to have fun! And that's where camping came in. Camping is incredible, the shared hardship of it is able to bring people together. We had to make sure that everyone was set up to camping and that there were great things to do all weekend so that people could make friends and have fun. 
+Camping is incredible, the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time.
 
 ### Sleeping
 
-Everyone needs a place to sleep - we needed to acquire tents and camping supplies for over 150 people. We worked with a local company called KitLender and hired in additional staff (our tent crew). They provided us a collection of 6 to 12 person tents (we didn't have them at full capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow and a headlight.
+To start, everyone needed a place to sleep and that meant acquiring tents and camping supplies for over 150 people. We worked with a local company called [KitLender](https://www.kitlender.com/) and hired a tent crew to help us with setup. KitLender provided us a collection of six to twelve person tents (we had them at approx. 75% capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow and a headlight.
 
 We also had to make sure that everyone found a place to sleep! That's where the sleeping pods came in. At check-in, we sorted folks into groups of approximately 20 people. They had a leader who would help them get settled in and then they'd all sleep in a similar area. 
 
-It was certainly a change up from previous hackathons! In some ways, sleeping with comfortable gear is an improvement but sleeping in a shared space was certainly a new experience for some.
+It was certainly a change up from previous hackathons! In some ways, sleeping with comfortable gear is an improvement but sleeping in a small shared space was certainly a new experience for some.
 
 ### Guilds
 
