@@ -84,7 +84,9 @@ Every workshop and lightning talk's outline can be found in [`/workshops-and-lig
 
 ### Providing Inspiration
 
-We needed to create the expectation amongst attendees that Outernet would be a technical event.
+We created the expectation amongst attendees that Outernet would be a technical event by having every participant set themselves a personal goal and provide a prompt at the Opening Ceremony. 
+
+The prompt we choose was "make people laugh". _[...expand]_
 
 ### The End Goal: Shipping & Demos
 
