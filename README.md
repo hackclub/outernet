@@ -120,6 +120,8 @@ To start, everyone needed a place to sleep and that meant acquiring tents and ca
 
 At check-in, to help hackers with settling in and getting setup, we sorted everyone into groups of approximately 20 people (sleeping pods). They had a leader who would help them find a tent and get all their gear. It was certainly a change up from previous hackathons; in some ways, sleeping with comfortable gear is an improvement but sleeping in a small shared space was certainly a new experience for some hackers.
 
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/0319430a-d1e7-4cfc-98da-dfe1f332e2f7">
+
 ### Guilds
 
 Guilds were a framework for hackers to do things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds were much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
