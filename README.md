@@ -88,6 +88,8 @@ We created the expectation amongst attendees that Outernet would be a technical 
 
 The prompt we choose was "make people laugh". _[...expand]_
 
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/8de946c2-3905-4eb9-ace3-f81db75c09d2">
+
 ### The End Goal: Shipping & Demos
 
 Demos are the culmination of a hackathon, it's important for hackers to leave feeling fulfilled and like they've acheived something of the weekend. It also gives everyone a special oppourtinity to see what others made over the weekend and celebrate one another's work. 
