@@ -118,9 +118,7 @@ Camping is incredible, the shared experience of it is able to bring people toget
 
 To start, everyone needed a place to sleep and that meant acquiring tents and camping supplies for over 150 people. We worked with a local company called [KitLender](https://www.kitlender.com/) and hired a tent crew to help us with setup. KitLender provided us a collection of six to twelve person tents (we had them at approx. 75% capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow and a headlight.
 
-We also had to make sure that everyone found a place to sleep! That's where the sleeping pods came in. At check-in, we sorted folks into groups of approximately 20 people. They had a leader who would help them get settled in and then they'd all sleep in a similar area. 
-
-It was certainly a change up from previous hackathons! In some ways, sleeping with comfortable gear is an improvement but sleeping in a small shared space was certainly a new experience for some.
+At check-in, to help hackers with settling in and getting setup, we sorted everyone into groups of approximately 20 people (sleeping pods). They had a leader who would help them find a tent and get all their gear. It was certainly a change up from previous hackathons; in some ways, sleeping with comfortable gear is an improvement but sleeping in a small shared space was certainly a new experience for some hackers.
 
 ### Guilds
 
