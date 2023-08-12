@@ -124,9 +124,7 @@ At check-in, to help hackers with settling in and getting setup, we sorted every
 
 ### Guilds
 
-Guilds were a framework for hackers to do things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. There was once a time when everything had an associated guild - an engineers' guild, a musicians' guild, a farmers' guild etc. Each guild contributed something specific back to society. At Outernet, guilds were much the same; each guild has a specific theme / purpose and all of them will contribute to the overall atmosphere of our camp.
-
-Guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at `guilds.md`.
+Earlier on we mentioned the idea of building our own hacker village, guilds were our final implementation of that idea. Guilds gave hackers a framework to run their own things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. We gave each guild $250 in funding through [Hack Club Bank](https://hackclub.com/bank) and helped them secure tents for their guild. On the day, guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at [`guilds.md`](guilds.md).
 
 * Ask Alex to expand
 
