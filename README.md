@@ -74,16 +74,17 @@ Lastly, we had The Cookhouse. It was also a multipurpose space during the event;
 
 #### The Internet
 
-* General description from Reese
+The spaces we were using for hacking had internet access, powered by the [OuterLAN](https://github.com/hackclub/outerlan) guild. _[...general description from LAN team]_
 
 #### Workshops & Lightning Talks
 
-* General description from Arav
-* Link to workshops-and-lightning-talks
+We wanted our hacking spaces to also serve as spaces for learning and picking up new skills. Throughout the weekend, we hosted a collection of workshops around the camp and had daily lightning talk sessions. _[...general description from Arav]_  
+
+Every workshop and lightning talk's outline can be found in [/workshops-and-lightning-talks](/workshops-and-lightning-talks).
 
 ### Providing Inspiration
 
-We needed create the expectation amongst attendees that Outernet would be a technical event.
+We needed to create the expectation amongst attendees that Outernet would be a technical event.
 
 ### The End Goal: Shipping & Demos
 
