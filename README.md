@@ -48,7 +48,7 @@ We went and visited the space, it was exactly what we were looking for.
 
 Nature can serve as great inspiration for technical projects; it can also be uncomfortable and distracting. We wanted people to find a balance between exploring the outdoors and coming together to program.
 
-For Outernet to work as a hackathon, we'd need to provide: space, inspiration, and an end goal.
+For Outernet to work as a hackathon, we needed to provide: space, inspiration, and an end goal.
 
 ### Creating The Space
 
@@ -92,13 +92,13 @@ The prompt we choose was "make people laugh". _[...expand]_
 
 ### The End Goal: Shipping & Demos
 
-Demos are the culmination of a hackathon, it's important for hackers to leave feeling fulfilled and like they've acheived something of the weekend. It also gives everyone a special oppourtinity to see what others made over the weekend and celebrate one another's work. 
+Demos are the culmination of a hackathon, hackers should leave demos feeling fulfilled and like they've acheived something of the weekend. It gives everyone a special opportunity to see what others made over the weekend and celebrate one another's creations. 
 
-Shipping start from the first hour of Outernet, we set up a big banner in the town square for people to write about the ships. The goal was for the banner to be full by the end of the weekend.
+Shipping began during the first hour of Outernet, we set up a big banner in the town square for people to write about the ships. The goal was for the banner to be full by the end of the weekend:
 
 <img width="600px" alt="Screenshot 2023-08-11 at 2 20 35 PM" src="https://github.com/hackclub/outernet/assets/39828164/582fc68f-c4c0-428b-9eda-cec3f1c11088">
 
-The thinking here was that we would be able to encourage people to build as many projects as they'd like during the event. It also gave the group a collective goal, we'd all win if the board was filled (in contrast to one project being selected as the definite "winner").
+This encouraged people to build as many projects as they'd like during the event. It also gave the group a collective goal, we'd all win if the board was filled (in contrast to one project being selected as the definite "winner").
 
 At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects from. Everyone had a board like this:
 
@@ -106,7 +106,7 @@ At the end of the event, on Sunday, we had demos! We gathered everyone in the to
 
 On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). Demos brought everyone together and left people with a sense of achievement.
 
-After everyone had shown of their projects to each other, we gathered in the town square again. This time everyone could get up on the rock and give a quick pitch / demo of their project. Everyone hooted and hollered for each other's projects; it was a special moment that provided closure to the weekend and the special feeling of being appreciated by a crowd.
+After everyone had shown of their projects to each other, we gathered in the town square again. This time everyone could get up on the rock and give a quick pitch / demo of their project. Everyone hooted and hollered for each other's projects; it was a special moment that provided closure to the weekend and gave everyone the special feeling of being appreciated by a crowd.
 
 <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/55d1b0d3-23b4-45c7-bdcb-845e22129666"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/07b55ad7-a210-4349-b702-d9a4125daa8a"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/a350437d-0452-437c-93e0-3ed23cddf843"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/f174cc2d-1c16-45af-8768-82ed9dffbfb9">
 
