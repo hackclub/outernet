@@ -159,15 +159,13 @@ Another ritual of ours was to gather around a bonfire every evening after sunset
 
 On the last night, the atmosphere was different again. Demos had happened and the event was nearing its end. We ran two bonfires that night, they were smaller and more reflective. It was a nice time for everyone to chat to one another and look back on the wild weekend. We also lit up the lake with floating lanterns that night. With an almost-full moon, it was a lovely closing to the weekend.
 
-Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
+The tomfoolery didn't stop there, Woody and his crew were running games, hikes and more all weekend long. Guilds also brought their own fun to the event, a couple of highlights were:
 
-On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. 
+* the Saturday night disco ran by Sarthak & the rave guild. We mixed it up with a midnight serving cake and Celsius (an energy drink)! It was wild.
 
-And as we got deeper into the night, people started slowly heading off to sleep but then we had a DISCO. It was ran by Sarthak & the rave guild. We mixed it up with cake and celsius! It was wild, Zach even danced to bollywood.
+* the water ballon fight and slip-n-slide that the Outernet Sports guild set up on Sunday afternoon. It was a refreshing escape from the heat and also tons of fun.
 
-Everyone woke up very late that morning. It was a slow start and the day was focused on heads-down hacking. (That was until the afternoon... where we had a break to have a water ballon fight and a boat building competition). 
-
-We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and 
+* and, also on Sunday afternoon, the boatbuilding competition. Using very limited materials (wood, rope and cardboard), folks had to build a boat to cross the lake in. It led to mixed results...
 
 ## In Retrospective...
 
