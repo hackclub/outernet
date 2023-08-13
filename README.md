@@ -159,6 +159,8 @@ Another ritual of ours was to gather around a bonfire every evening after sunset
 
 On the last night, the atmosphere was different again. Demos had happened and the event was nearing its end. We ran two bonfires that night, they were smaller and more reflective. It was a nice time for everyone to chat to one another and look back on the wild weekend. We also lit up the lake with floating lanterns that night. With an almost-full moon, it was a lovely closing to the weekend.
 
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/4b9a6101-280e-4313-8e99-c29f4d3af2a1" />
+
 The tomfoolery didn't stop there, Woody and his crew were running games, hikes and more all weekend long. Guilds also brought their own fun to the event, a couple of highlights were:
 
 * the Saturday night disco ran by Sarthak & the rave guild. We mixed it up with a midnight serving cake and Celsius (an energy drink)! It was wild.
