@@ -140,11 +140,16 @@ We've mentioned him before but now feels like a good time to introduce Woody, an
 
 One of our nightly rituals was to gather everyone for show at the end of each day. On the first evening, after dinner, we kicked things off with an outdoor show a marching band leading us through the camp, fire dances, and a man on silts getting up to all sorts of shenanigans. 
 
+<img height="200" alt="Screenshot 2023-08-13 at 4 12 32 PM" src="https://github.com/hackclub/outernet/assets/39828164/eb2883a9-a646-4552-bdf2-85a547e51576">
+
 We then transitioned into the opening ceremony and made the the first ship on the ship board. The shows on the second and third night were both in The Barn. As the rain bucketed down on the second night, we were all enjoying a collection of acts including a local circus troop (Circus Smirkus), musical performances from our band, and physical comedy. 
+
+<img height="300" src="https://github.com/hackclub/outernet/assets/39828164/73dcd426-aacc-454d-bd18-38d1647e19bb">
+<img height="300" src="https://github.com/hackclub/outernet/assets/39828164/8bbbb212-09bb-4cf1-b132-d9e3c409b4f9">
 
 Finally, on the third night, we had a (late night) Early Evening Show with a character named Mike Miclon. It was just like your classic American evening show with featured interviews, bizarre performances and a charismatic host... plus a "qualified" doctor.
 
-<img height="200" src="https://github.com/hackclub/outernet/assets/39828164/295ac850-3611-4951-9e5d-1fbd26b115cc"> <img height="200" alt="Screenshot 2023-08-13 at 4 04 23 PM" src="https://github.com/hackclub/outernet/assets/39828164/df0bd5c0-1d29-4270-ab56-19957a113f83">
+<img height="300" src="https://github.com/hackclub/outernet/assets/39828164/295ac850-3611-4951-9e5d-1fbd26b115cc"> <img height="300" src="https://github.com/hackclub/outernet/assets/39828164/df0bd5c0-1d29-4270-ab56-19957a113f83">
 
 
 Fires 
