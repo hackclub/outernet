@@ -155,8 +155,7 @@ Finally, on the third night, we had a (late night) Early Evening Show with a cha
 
 Another ritual of ours was to gather around a bonfire every evening after sunset. Each night, the bonfire had a different atmosphere which reflected the different stages of the event. On the first night, the bonfire was combined with the show and it's purpose was to get everyone excited for the weekend ahead. Then, on the second night, the bonfire became "the shrine of the ship". It was madness. We had bongos going, cult-like chanting about shipping projects, campfire songs and ingredients for smores (given out in return for making a ship on the banner). We were rallying up excitement about demos.
 
-
-
+<img height="300" src="https://github.com/hackclub/outernet/assets/39828164/f2435d74-8fcd-423f-9ea7-a24397751702"> <img height="300" src="https://github.com/hackclub/outernet/assets/39828164/c5512bc7-6319-4ab0-a9a9-c1ca58fe254a">
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
 
