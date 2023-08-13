@@ -86,11 +86,13 @@ Every workshop and lightning talk's outline can be found in [`/workshops-and-lig
 
 We created the expectation amongst attendees that Outernet would be a technical event by having every participant set themselves a personal goal and provide a prompt at the Opening Ceremony. 
 
-The prompt we choose was "make people laugh". _[...expand]_
+The prompt we choose was "make people laugh". It was flexible, clear, and positive. Plus everyone loves to have a good laugh at demos!
 
 <img width="600" src="https://github.com/hackclub/outernet/assets/39828164/8de946c2-3905-4eb9-ace3-f81db75c09d2">
 
-Beyond providing a prompt, we asked every participant to write themselves a goal during the opening ceremony. It prompted everyone to start asking themselves questions about what they wanted achieve over the weekend that'd hopefully lead to an idea for the hackathon. Folks who were comfortable were able to share their personal goals on stage:
+Beyond providing a prompt, we also asked every participant to write themselves a goal during the opening ceremony. It prompted everyone to start asking themselves questions about what they wanted achieve over the weekend that'd hopefully lead to an idea for the hackathon. Folks who were comfortable were able to share their personal goals on stage:
+
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/aa96a42f-4427-458c-b698-472b1b27928d" />
 
 ### The End Goal: Shipping & Demos
 
@@ -104,7 +106,7 @@ This encouraged people to build as many projects as they'd like during the event
 
 At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects from. Everyone had a board like this:
 
-<img width="600" alt="Screenshot 2023-08-11 at 2 25 24 PM" src="https://github.com/hackclub/outernet/assets/39828164/48ee9803-256d-441e-8b74-327767845bfb">
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/48ee9803-256d-441e-8b74-327767845bfb">
 
 On the board, people would be able to paste stickers (like reactions on the Slack) and write congratulatory words (like at the back of a high-school yearbook). Demos brought everyone together and left people with a sense of achievement.
 
