@@ -136,27 +136,25 @@ Lonny did an incredible job; every meal was a joy to consume and it was nice to 
 
 ### Tomfoolery
 
-We've mentioned him before but now feels like a good time to introduce Woody, an incredible actor / performer, and professional clown. We've known him since HQ moved to Vermont and regularly head up to concerts on Mt. Foolery which Woody runs. Woody was Outernet's Coordinator of Fools. 
+We've mentioned him before but now feels like a good time to introduce Woody, an incredible actor / performer, and professional clown. We've known him since HQ moved to Vermont and regularly head up to concerts on Mt. Foolery which Woody runs. Woody was Outernet's Coordinator of Fools.
+
+One of our nightly rituals was to gather everyone for show at the end of each day. On the first evening, after dinner, we kicked things off with an outdoor show a marching band leading us through the camp, fire dances, and a man on silts getting up to all sorts of shenanigans. 
+
+We then transitioned into the opening ceremony and made the the first ship on the ship board. The shows on the second and third night were both in The Barn. As the rain bucketed down on the second night, we were all enjoying a collection of acts including a local circus troop (Circus Smirkus), musical performances from our band, and physical comedy. 
+
+Finally, on the third night, we had a (late night) Early Evening Show with a character named Mike Miclon. It was just like your classic American evening show with featured interviews, bizarre performances and a charismatic host... plus a "qualified" doctor.
+
+Fires 
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
 
-On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. That was followed by an opening ceremony and the first ship on the ship board!
+On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. 
 
-It was late so people then headed off to do starting hacking, grab some Ben & Jerry's, do their own thing with new friends, or sleep.
-
-We were up early the next morning and after a hearty breakfast, we broke the ice with a game ran by Sunny Day (a parody camp counsellor who hung around for the weekend) and Woody.
-
-Then it was off to hacking!
-
-That night we had a show. We had Circus, we had a band and we had physical comedy. Gave everyone a laugh even though it rained.
-
-After dinner and a convienntly timed rainbow, the sun set and we gathered back around the fire for the shrine of the ship! It was madness. We had bongos going, cult-like chanting about shipping projects (the goal was to rally up excitement about demos), campfire songs (Wonderwall!) and smores (in return for a ship on the banner).
+After dinner and a conveniently timed rainbow, the sun set and we gathered back around the fire for the shrine of the ship! It was madness. We had bongos going, cult-like chanting about shipping projects (the goal was to rally up excitement about demos), campfire songs (Wonderwall!) and smores (in return for a ship on the banner).
 
 And as we got deeper into the night, people started slowly heading off to sleep but then we had a DISCO. It was ran by Sarthak & the rave guild. We mixed it up with cake and celsius! It was wild, Zach even danced to bollywood.
 
 Everyone woke up very late that morning. It was a slow start and the day was focused on heads-down hacking. (That was until the afternoon... where we had a break to have a water ballon fight and a boat building competition). 
-
-After demos though it was time to celebrate! We had a (late night) Early Evening Show with a character named Mike Miclon. It featured interviews, bizarre performances and a charismatic host... plus a qualified doctor.
 
 We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and light up the lake with floating lanterns. The moon was very large that night and it was a lovely closing to the day.
 
