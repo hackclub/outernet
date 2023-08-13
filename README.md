@@ -144,6 +144,9 @@ We then transitioned into the opening ceremony and made the the first ship on th
 
 Finally, on the third night, we had a (late night) Early Evening Show with a character named Mike Miclon. It was just like your classic American evening show with featured interviews, bizarre performances and a charismatic host... plus a "qualified" doctor.
 
+<img height="200" src="https://github.com/hackclub/outernet/assets/39828164/295ac850-3611-4951-9e5d-1fbd26b115cc"> <img height="200" alt="Screenshot 2023-08-13 at 4 04 23 PM" src="https://github.com/hackclub/outernet/assets/39828164/df0bd5c0-1d29-4270-ab56-19957a113f83">
+
+
 Fires 
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
