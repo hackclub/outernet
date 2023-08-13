@@ -24,7 +24,7 @@ The group's goal was to fill our wall of ships:
 
 <img src="https://github.com/hackclub/outernet/assets/39828164/a61ab4e6-a3d8-4b2f-946a-240c11ca061e" width="600px" />
 
-The weekend would close out with us all coming together to celebrate and demo everything we shipped over the weekend. WIth a full wall of ships, we'd all have succeeded together.
+The weekend would close out with us all coming together to celebrate and demo everything we shipped over the weekend. With a full wall of ships, we'd all have succeeded together.
 
 ## Finding The Space
 
@@ -38,7 +38,7 @@ We tried working with a retreat venue. They wanted $50k.
 
 We almost went with a nudist colony. They refused to give us exclusive access. 
 
-It wasn't looking good, then, an old friend of [Woody](https://woody.vercel.app/) called him back. He was the owner of an old Christian campground, [Covenant Hills Camp](https://covenanthillsvt.org/) in the Northeast Kingdom. They hadn't been fully operational since 2015 but they had large shelters, a connection to the power grid, a large underground water tank, regualar waste removal, functional toilets, lukewarm showers, and suprisingly fast DSL internet. Whilst it wouldn't be glamping, Covenant Hills provided us a nice balance between having basic necessities and taking hackers out of their comfort zone. 
+It wasn't looking good, then, an old friend of [Woody](https://woody.vercel.app/) called him back. He was the owner of an old Christian campground, [Covenant Hills Camp](https://covenanthillsvt.org/) in the Northeast Kingdom. They hadn't been fully operational since 2015 but they had large shelters, a connection to the power grid, a large underground water tank, regular waste removal, functional toilets, lukewarm showers, and surprisingly fast DSL internet. Whilst it wouldn't be glamping, Covenant Hills provided us a nice balance between having basic necessities and taking hackers out of their comfort zone. 
 
 <img src="https://github.com/hackclub/outernet/assets/39828164/4ae45014-e289-4282-b56c-3163a0d733ca" width="300px" /> <img src="https://github.com/hackclub/outernet/assets/39828164/0621f760-07ca-4aa0-895f-3d4428c53cd1" width="300px" />
 
@@ -52,7 +52,7 @@ For Outernet to work as a hackathon, we needed to provide: space, inspiration, a
 
 ### Creating The Space
 
-By default, your classic hackathon chair and table setup doesn't exist at a campground. We set up outdoor seating around the campground as well as three indoor makerspaces: The Barn / The Hardware Shack, The Cafe, and The Cookhouse. Each makerspace had tables and chairs layed out for hackers to work from.
+By default, your classic hackathon chair and table setup doesn't exist at a campground. We set up outdoor seating around the campground as well as three indoor makerspaces: The Barn / The Hardware Shack, The Cafe, and The Cookhouse. Each makerspace had tables and chairs laid out for hackers to work from.
 
 #### The Barn / The Hardware Shack
 
@@ -92,7 +92,7 @@ The prompt we choose was "make people laugh". _[...expand]_
 
 ### The End Goal: Shipping & Demos
 
-Demos are the culmination of a hackathon, hackers should leave demos feeling fulfilled and like they've acheived something of the weekend. It gives everyone a special opportunity to see what others made over the weekend and celebrate one another's creations. 
+Demos are the culmination of a hackathon, hackers should leave demos feeling fulfilled and like they've achieved something of the weekend. It gives everyone a special opportunity to see what others made over the weekend and celebrate one another's creations. 
 
 Shipping began during the first hour of Outernet, we set up a big banner in the town square for people to write about the ships. The goal was for the banner to be full by the end of the weekend:
 
@@ -128,7 +128,13 @@ Earlier on we mentioned the idea of building our own hacker village, guilds were
 
 * Ask Alex to expand
 
-### Shenangians & Entertainment 
+### Food
+
+By virtue of being in the middle of nowhere, we had to make food for everyone on site ourselves. Fortunately, we had an industrial kitchen on site that we could use to prepare food in. We hired a friend of Hack Club's, Lonny, to lead the kitchen crew. Every night his crew would cook up a homemade meal (baked ziti, hamburgers, hot dogs, and pasta)and serve it at The Cookhouse. Meanwhile, for lunches, we did build-your-own sandwiches / salads. For most days, breakfast was a relatively simple continental buffet (yogurt, cereal, breads etc.). On Sunday morning, we made a special pancake breakfast using maple syrup for the farm next door to us.
+
+Lonny did an incredible job; every meal was a joy to consume and it was nice to have so many locally-source ingredients.
+
+### Shenanigans & Entertainment 
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
 
@@ -138,7 +144,7 @@ On the first night, after dinner, we had a massive bonfire (s/o to our tent crew
 
 It was late so people then headed off to do starting hacking, grab some Ben & Jerry's, do their own thing with new friends, or sleep.
 
-We were up early the next morning and after a hearty breakfast, we broke the ice with a game ran by Sunny Day (a parody camp counselor who hung around for the weekend) and Woody.
+We were up early the next morning and after a hearty breakfast, we broke the ice with a game ran by Sunny Day (a parody camp counsellor who hung around for the weekend) and Woody.
 
 Then it was off to hacking!
 
@@ -153,10 +159,6 @@ Everyone woke up very late that morning. It was a slow start and the day was foc
 After demos though it was time to celebrate! We had a (late night) Early Evening Show with a character named Mike Miclon. It featured interviews, bizarre performances and a charismatic host... plus a qualified doctor.
 
 We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and light up the lake with floating lanterns. The moon was very large that night and it was a lovely closing to the day.
-
-### Food
-
-We were in the middle of nowhere, we needed to make our own food! We had a full industrial kitchen. We hired Lonny and his crew to make a homemade meal every night. For our dinners, we had baked ziti, hamburgers, hot dogs, and pasta. For lunch we did build-your-own sandwiches. For most days, breakfast was fairly simple (yogurt, cereal, breads etc. but on Sunday morning, we made it special by having our own pancakes. It was all super tasty and it was nice that a lot of ingredients were local (eg. the maple syrup for the pancakes was made literally next door).
 
 ## In Retrospective...
 
