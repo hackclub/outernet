@@ -134,11 +134,11 @@ By virtue of being in the middle of nowhere, we had to make food for everyone on
 
 Lonny did an incredible job; every meal was a joy to consume and it was nice to have so many locally-source ingredients.
 
-### Shenanigans & Entertainment 
+### Tomfoolery
+
+We've mentioned him before but now feels like a good time to introduce Woody, an incredible actor / performer, and professional clown. We've known him since HQ moved to Vermont and regularly head up to concerts on Mt. Foolery which Woody runs. Woody was Outernet's Coordinator of Fools. 
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
-
-All of our entertainment was coordinated by Woody - an incredible actor and performer, and professional clown. We've known him for a couple of years now since he was Zach's landlord. 
 
 On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. That was followed by an opening ceremony and the first ship on the ship board!
 
