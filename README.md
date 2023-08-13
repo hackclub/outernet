@@ -169,6 +169,8 @@ The tomfoolery didn't stop there, Woody and his crew were running games, hikes a
 
 * the water ballon fight and slip-n-slide that the Outernet Sports guild set up on Sunday afternoon. It was a refreshing escape from the heat and also tons of fun.
 
+<img height="200" src="https://cloud-7v5fy5k3h-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.40.54_pm.png"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/4dcae24c-9e5e-4b37-9ef9-f788bc519cd3"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/27219616-54af-4d5c-af2f-93e14c9520dd"> 
+
 * and, also on Sunday afternoon, the boatbuilding competition. Using very limited materials (wood, rope and cardboard), folks had to build a boat to cross the lake in. It led to mixed results...
 
 ## In Retrospective...
