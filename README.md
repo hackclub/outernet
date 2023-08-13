@@ -90,6 +90,8 @@ The prompt we choose was "make people laugh". _[...expand]_
 
 <img width="600" src="https://github.com/hackclub/outernet/assets/39828164/8de946c2-3905-4eb9-ace3-f81db75c09d2">
 
+Beyond providing a prompt, we asked every participant to write themselves a goal during the opening ceremony. It prompted everyone to start asking themselves questions about what they wanted achieve over the weekend that'd hopefully lead to an idea for the hackathon. Folks who were comfortable were able to share their personal goals on stage:
+
 ### The End Goal: Shipping & Demos
 
 Demos are the culmination of a hackathon, hackers should leave demos feeling fulfilled and like they've achieved something of the weekend. It gives everyone a special opportunity to see what others made over the weekend and celebrate one another's creations. 
@@ -125,8 +127,6 @@ At check-in, to help hackers with settling in and getting setup, we sorted every
 ### Guilds
 
 Earlier on we mentioned the idea of building our own hacker village, guilds were our final implementation of that idea. Guilds gave hackers a framework to run their own things during Outernet. If there's something a hacker would like to have at Outernet, they started a guild focused on it. We gave each guild $250 in funding through [Hack Club Bank](https://hackclub.com/bank) and helped them secure tents for their guild. On the day, guilds brought the campground alive. Each of them brought their own unique thing to the event ranging from crochet materials to boat building tools. The full list of guilds is at [`guilds.md`](guilds.md).
-
-* Ask Alex to expand
 
 ### Food
 
