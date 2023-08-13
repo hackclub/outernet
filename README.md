@@ -155,19 +155,17 @@ Finally, on the third night, we had a (late night) Early Evening Show with a cha
 
 Another ritual of ours was to gather around a bonfire every evening after sunset. Each night, the bonfire had a different atmosphere which reflected the different stages of the event. On the first night, the bonfire was combined with the show and it's purpose was to get everyone excited for the weekend ahead. Then, on the second night, the bonfire became "the shrine of the ship". It was madness. We had bongos going, cult-like chanting about shipping projects, campfire songs and ingredients for smores (given out in return for making a ship on the banner). We were rallying up excitement about demos.
 
-
-
+On the last night, the atmosphere was different again. Demos had happened and the event was nearing its end. We ran two bonfires that night, they were smaller and more reflective. It was a nice time for everyone to chat to one another and look back on the wild weekend. We also lit up the lake with floating lanterns that night. With an almost-full moon, it was a lovely closing to the weekend.
 
 Throughout the weekend, all sorts of shenanigans were going on. Some of it was organised by us, other events... just sprang out of nowhere. That was the magic of it all. 
 
 On the first night, after dinner, we had a massive bonfire (s/o to our tent crew: Nick, Asa, and Colin) which involved fire dancing, a man on silts, and a marching band leading us through the camp. 
 
-After dinner and a conveniently timed rainbow, the sun set and we gathered back around the fire for the shrine of the ship! 
 And as we got deeper into the night, people started slowly heading off to sleep but then we had a DISCO. It was ran by Sarthak & the rave guild. We mixed it up with cake and celsius! It was wild, Zach even danced to bollywood.
 
 Everyone woke up very late that morning. It was a slow start and the day was focused on heads-down hacking. (That was until the afternoon... where we had a break to have a water ballon fight and a boat building competition). 
 
-We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and light up the lake with floating lanterns. The moon was very large that night and it was a lovely closing to the day.
+We also wanted to have a special moment that night, after dinner, we hosted a series of small campfires and 
 
 ## In Retrospective...
 
