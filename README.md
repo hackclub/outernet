@@ -171,16 +171,38 @@ The tomfoolery didn't stop there, Woody and his crew were running games, hikes a
 
 ## In Retrospective...
 
-* the challenges of organising an outdoors event
-* the impact of an outdoors event
-* specific things related to Outernet
+The following is written primarily by [@sampoder](https://github.com/sampoder) but pulls from key points in our team's shared retrospective.
+
+Outernet was an unforgettable weekend, I believe for all the attendees but also for the team and I. We'd never done anything like it and I'm so glad we went for it, it turned out to be incredible. 
+
+Everyone was pushed outside of their comfort zone and, most importantly, enjoyed themselves as they explored the outdoors. Everyone embraced the environment around them and build superb technical projects. Lastly, everyone left with a new set of friends with whom they shared some incredible memories with. 
+
+I think we were able to pull this off because: we created a great physical environment for the event, we brought in specialists who knew the outdoors like the back of their hands, our staff was constantly energetic and flexible even when the going got tough, we emphasised the technical nature of the event from the start, and we had a super enthusiastic set of attendees who all brought something unique to the event.
+
+This isn't to say that things couldn't have been even better. No event is perfect and Outernet had its fair share of flaws. Attendee-experience related areas for improvement  included making the shows more interactive (especially the second night's), having a better way of communicating what was going on when, more consistent internet, more efficient meal serving, and there being more opportunity for interaction between staff and attendees.
+
+It'd be remiss of me to not mention that Outernet was by far the most intense event any of us had organised. On Monday, I remember feeling physically defeated by everything and anything. There's a first time for everything and we learnt a lot from Outernet; if we were to do Outernet again, I would:
+
+* improve our internal communication strategy. At hackathons, we can normally just run back and forward to each other. Outernet's venue was too large for that so we threw walkie talkies into the mix. It was constant chaos on the radios, especially during high-pressure moments such as the bus departures back to Boston. 
+
+* be more conservative with supply purchases. We brought a lot of stuff and then had to lug it to and from Shelburne. We should have tried to rent more of the equipment.
+
+* used role-based assignments instead of time-based assignments. Our run of show assigned people to roles based on the time of day, so in the morning, someone could have been manning breakfast whilst in the evening, they'd be setting up tiki torches. This meant that when the schedule would move around (which it did a bunch due to traffic and the weather), staff would get confused about their roles.
+
+* hire more tradesmen to help with the physical labour. There was a lot of physical labour involved in setting up, cleaning up and maintaining the venue throughout the event. We could have had more actively engaged staff if we freed them up by hiring in more helping hands. 
+
+Operating in such a large space and having so many things going on in the background created this gap between the attendee and staff experience that I hadn't seen at previous events. At times, it was quite a lonely job that left me feeling both overwhelmed and lost. This was interesting to deal with personally whilst also trying my best to be there to help everyone else.
+
+We stuck it out together and I'll forever be both proud of and grateful for our team. I still can't believe what we managed to pull off. Certainly a weekend I'll never forget.
+
+<img src="https://cloud-jk4dkc76q-hack-club-bot.vercel.app/0dji_0769__1_.gif" width="600" />
 
 ## ☀️ In Years Past
 
 | Year | Project | Description |
 | ---- | ------- | ----------- |
 | 2023 | [Outernet](https://outernet.hackclub.com) | _This repo!_ |  
-| 2023 | [Epoch](https://epoch.hackclub.com) | A magical New Year's spent hacking in New Delhi, our first flagship event abroad / in India. ([repo](https://github.com/hackclub/epoch)) ([finances](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing)) ([photos](https://hack.af/epoch-photos)) |
+| 2023 | [Epoch](https://epoch.hackclub.com) | A magical New Year's spent hacking in New Delhi, our first flagship event abroad and in India. ([repo](https://github.com/hackclub/epoch)) ([finances](https://docs.google.com/spreadsheets/d/1G-ukyf7spB8bfO9Mqnt8ks9swVIojfriPt1P4pEyWw4/edit?usp=sharing)) ([photos](https://hack.af/epoch-photos)) |
 | 2022 | [Assemble](https://assemble.hackclub.com) | The first high school hackathon since the pandemic! ([repo](https://github.com/hackclub/assemble)) ([finances](https://bank.hackclub.com/assemble)) ([photos](https://hack.af/assemble-photos))|
 | 2021 | [The Hacker Zephyr](https://github.com/hackclub/the-hacker-zephyr) | A cross-country hacker adventure on a train. ([repo](https://github.com/hackclub/the-hacker-zephyr)) ([finances](https://bank.hackclub.com/zephyr)) |
 | 2020 | [Summer of Making](https://summer.hackclub.com)| $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook)) ([finances](https://bank.hackclub.com/summer-of-making)) |
