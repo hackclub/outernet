@@ -181,7 +181,7 @@ The tomfoolery didn't stop there. Woody and his crew were running games, hikes, 
 
 The following is written primarily by [@sampoder](https://github.com/sampoder) but pulls from key points in our team's shared retrospective.
 
-Outernet was an unforgettable weekend, I believe it was for all the attendees but also for the team and I. We'd never done anything like it and I'm so glad we went for it, it turned out to be incredible. 
+Outernet was an unforgettable weekend. We'd never done anything like it and I'm so glad we went for it, it turned out to be incredible. 
 
 Everyone was pushed outside of their comfort zone and, most importantly, enjoyed themselves as they explored the outdoors. Everyone embraced the environment around them and build superb technical projects. Lastly, everyone left with a new set of friends with whom they shared some incredible memories with. 
 
