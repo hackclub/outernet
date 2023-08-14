@@ -167,11 +167,15 @@ The tomfoolery didn't stop there, Woody and his crew were running games, hikes a
 
 * the Saturday night disco ran by Sarthak & the rave guild. We mixed it up with a midnight serving cake and Celsius (an energy drink)! It was wild.
 
+<img width="600" src="https://github.com/hackclub/outernet/assets/39828164/30b85000-d17d-49b9-b135-d1355f9f6821" />
+
 * the water ballon fight and slip-n-slide that the Outernet Sports guild set up on Sunday afternoon. It was a refreshing escape from the heat and also tons of fun.
 
-<img height="200" src="https://cloud-7v5fy5k3h-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.40.54_pm.png"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/4dcae24c-9e5e-4b37-9ef9-f788bc519cd3"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/27219616-54af-4d5c-af2f-93e14c9520dd"> 
+<img height="200" src="https://cloud-7v5fy5k3h-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.40.54_pm.png"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/4dcae24c-9e5e-4b37-9ef9-f788bc519cd3"> <img height="200" src="https://github.com/hackclub/outernet/assets/39828164/27219616-54af-4d5c-af2f-93e14c9520dd"> <img height="200" src="https://cloud-bdvadmyg0-hack-club-bot.vercel.app/0dsc_0222.nef.jpg" />
 
 * and, also on Sunday afternoon, the boatbuilding competition. Using very limited materials (wood, rope and cardboard), folks had to build a boat to cross the lake in. It led to mixed results...
+
+<img height="300" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.49.48_pm.png"> <img height="300" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/1screenshot_2023-08-13_at_6.51.45_pm.png">
 
 ## In Retrospective...
 
