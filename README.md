@@ -195,11 +195,11 @@ It'd be remiss of me to not mention that Outernet was by far the most intense ev
 
 * be more conservative with supply purchases. We brought a lot of stuff and then had to lug it to and from Shelburne. We should have tried to rent more of the equipment.
 
-* used role-based assignments instead of time-based assignments. Our run of show assigned people to roles based on the time of day, so in the morning, someone could have been manning breakfast whilst in the evening, they'd be setting up tiki torches. This meant that when the schedule would move around (which it did a bunch due to traffic and the weather), staff would get confused about their roles.
+* use role-based assignments instead of time-based assignments. Our run of show assigned people to roles based on the time of day, so in the morning, someone could have been manning breakfast whilst in the evening, they'd be setting up tiki torches. This meant that when the schedule would move around (which it did a bunch due to traffic and the weather), staff would get confused about their roles.
 
 * hire more tradesmen to help with the physical labour. There was a lot of physical labour involved in setting up, cleaning up and maintaining the venue throughout the event. We could have had more actively engaged staff if we freed them up by hiring in more helping hands. 
 
-Operating in such a large space and having so many things going on in the background created this gap between the attendee and staff experience that I hadn't seen at previous events. At times, it was quite a lonely job that left me feeling both overwhelmed and lost. This was interesting to deal with personally whilst also trying my best to be there to help everyone else on the team.
+Operating in such a large space and having so many things going on in the background created this gap between the attendee and staff experience that I hadn't seen at previous events. At times, it was quite a lonely job that left me feeling both overwhelmed and lost. This was challenging to deal with personally whilst also trying my best to be there to help everyone else on the team, many of whom were going through similar issues.
 
 We stuck it out together and I'll forever be both proud of and grateful for the team. They're a very special group of people. I still can't believe what we managed to pull off. Certainly a weekend I'll never forget.
 
@@ -209,7 +209,7 @@ We stuck it out together and I'll forever be both proud of and grateful for the 
 
 Outernet was made possible by dozens of Hack Clubbers. 
 
-Thank you to Alex, Arav, Arianna, B, Belle, Ben, Caleb, Cheru, Christina, Conrad, Daisy, Dev, Dieter, Graham, Henry, Holly, Hugo, Ian, JC, Kai, Kara, Leo, Lexi, Liv, Matt, Max, Mel, Nila, Reese, Ruien, Ryan, Sahiti, Sam, Sarthak, Shubham, Thomas, Toby, Woody, Zach, and Zoya. 
+A big thank you to Alex, Arav, Arianna, B, Belle, Ben, Caleb, Cheru, Christina, Conrad, Daisy, Dev, Dieter, Graham, Henry, Holly, Hugo, Ian, JC, Kai, Kara, Leo, Lexi, Liv, Matt, Max, Mel, Nila, Reese, Ruien, Ryan, Sahiti, Sam, Sarthak, Shubham, Thomas, Toby, Woody, Zach, and Zoya. 
 
 And thank you to Asa, Ben, Char, Colin, Dave, Dick, Duncan, Emily, Forrest, John, Lonny, Matt, Mindy, Nick, Quillan, Rebecca, Randy, and Rob for their generous support.
 
