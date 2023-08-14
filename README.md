@@ -6,19 +6,19 @@ This is the story of how and why we did it.
 
 <img alt="Everyone in the town square and in front of the Outernet sign." src="https://github.com/hackclub/outernet/assets/39828164/368eac86-3c39-4842-be2c-1436a6db6f07" width="600px" />
 
-Our goal is to open-source everything we have about Outernet, from half-baked ideas to our full itemized budget. No two events are the same but we hope that within this repository, you can find inspiration for your own special event. 
+Our goal is to open-source everything we have about Outernet, from half-baked ideas to our full itemised budget. No two events are the same but we hope that within this repository, you can find inspiration for your own special event. 
 
 ## The Concept
 
 Magical moments happen when we take people out of their comfort zone. We've run countless hackathons in flash indoor spaces, how about doing one outdoors? 
 
-We're surrounded by incredible nature out here in Vermont, it was a great opportunity to do something different. As organizers, we were venturing out of our comfort zones ourselves. That was both exciting and scary for us. We knew that exploring the outdoors would leave attendees with an experience they'd treasure for the rest of their lives; that's what convinced us to go for it.
+We're surrounded by incredible nature out here in Vermont, it was a great opportunity to do something different. As organisers, we were venturing out of our comfort zones ourselves. That was both exciting and scary for us. We knew that exploring the outdoors would leave attendees with an experience they'd treasure for the rest of their lives; that's what convinced us to go for it.
 
 <img src="https://github.com/hackclub/outernet/assets/39828164/d302f706-202f-4492-93e4-d0db0ecc9b59" width="600px" />
 
 Once we felt confident about running an event outdoors, we started looking for a format. Our initial plan was to focus the event around the concept of building our own hacker village. We were taking inspiration from European hacker camps (eg. [Electromagnetic Field](https://www.emfcamp.org/)), [ToorCamp](https://toorcamp.toorcon.net/), and Burning Man. The idea behind building a hacker village would morph into [guilds](#guilds). Over time, however, our focus became less on the village and more on an individual's experience. We started working with this idea of Outernet being a choose-your-own-adventure event. At previous events of ours, it had always felt like the best moments were the ones attendees created for themselves. We'd find the space, and attendees would create their experience. 
 
-Then there was the (slightly contentious) question of "to what extent is Outernet a hackathon?". We wanted everyone to be making and shipping projects just as they would at a hackathon. At the same time, we wanted a hacker's experience to be personalized and flexible. Our approach would be to make Outernet the perfect environment for building outdoors and to create an atmosphere in the camp where the cool thing to do at any given time was to be making cool things. Over the weekend, you could ship as many things as you wanted. 
+Then there was the (slightly contentious) question of "to what extent is Outernet a hackathon?". We wanted everyone to be making and shipping projects just as they would at a hackathon. At the same time, we wanted a hacker's experience to be personalised and flexible. Our approach would be to make Outernet the perfect environment for building outdoors and to create an atmosphere in the camp where the cool thing to do at any given time was to be making cool things. Over the weekend, you could ship as many things as you wanted. 
 
 The group's goal was to fill our wall of ships:
 
@@ -104,7 +104,7 @@ Shipping began during the first hour of Outernet, and we set up a big banner in 
 
 This encouraged people to build as many projects as they'd like during the event. It also gave the group a collective goal; we'd all win if the board was filled (in contrast to one project being selected as the definite "winner").
 
-At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on a big piece of cloth. Then, people set up stations to demo their projects. Everyone had a board like this:
+At the end of the event, on Sunday, we had demos! We gathered everyone in the town square. To begin, people wrote their final ships on the big piece of cloth. Then, people set up stations to demo their projects. Everyone had a board like this:
 
 <img width="600" src="https://github.com/hackclub/outernet/assets/39828164/48ee9803-256d-441e-8b74-327767845bfb">
 
@@ -116,7 +116,7 @@ After everyone had shown off their projects to each other, we gathered in the to
 
 ## The Camping Experience
 
-Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time. With Outernet, we were able to introduce the extraordinary world of camping and the beauty of Vermont to many who had never experienced it before.
+Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time. We wanted to make sure everyone at Outernet had an equally magical time.
 
 ### Sleeping
 
