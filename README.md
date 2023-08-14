@@ -207,7 +207,11 @@ We stuck it out together and I'll forever be both proud of and grateful for the 
 
 ## Acknowledgements
 
-Outernet was made possible by dozens of Hack Clubbers. Thank you to Alex, Arav, Arianna, B, Belle, Ben, Caleb, Cheru, Christina, Conrad, Daisy, Dev, Dieter, Graham, Henry, Holly, Hugo, Ian, JC, Kai, Kara, Leo, Lexi, Liv, Matt, Max, Mel, Nila, Reese, Ruien, Ryan, Sahiti, Sam, Sarthak, Shubham, Thomas, Toby, Woody, Zach, and Zoya. And thank you to Asa, Ben, Char, Colin, Dave, Dick, Duncan, Emily, Forrest, John, Lonny, Matt, Mindy, Nick, Quillan, Rebecca, Randy, and Rob for their generous support.
+Outernet was made possible by dozens of Hack Clubbers. 
+
+Thank you to Alex, Arav, Arianna, B, Belle, Ben, Caleb, Cheru, Christina, Conrad, Daisy, Dev, Dieter, Graham, Henry, Holly, Hugo, Ian, JC, Kai, Kara, Leo, Lexi, Liv, Matt, Max, Mel, Nila, Reese, Ruien, Ryan, Sahiti, Sam, Sarthak, Shubham, Thomas, Toby, Woody, Zach, and Zoya. 
+
+And thank you to Asa, Ben, Char, Colin, Dave, Dick, Duncan, Emily, Forrest, John, Lonny, Matt, Mindy, Nick, Quillan, Rebecca, Randy, and Rob for their generous support.
 
 <img src="https://cloud-5awopv6c4-hack-club-bot.vercel.app/0frame_1__1_.png"  width="600" />
 
