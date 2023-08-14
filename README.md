@@ -175,7 +175,7 @@ The tomfoolery didn't stop there, Woody and his crew were running games, hikes a
 
 * and, also on Sunday afternoon, the boatbuilding competition. Using very limited materials (wood, rope and cardboard), folks had to build a boat to cross the lake in. It led to mixed results...
 
-<img height="300" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.49.48_pm.png"> <img height="300" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/1screenshot_2023-08-13_at_6.51.45_pm.png">
+<img height="200" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/0screenshot_2023-08-13_at_6.49.48_pm.png"> <img height="200" src="https://cloud-79vp9u9a7-hack-club-bot.vercel.app/1screenshot_2023-08-13_at_6.51.45_pm.png">
 
 ## In Retrospective...
 
