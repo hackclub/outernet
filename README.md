@@ -181,7 +181,7 @@ The tomfoolery didn't stop there. Woody and his crew were running games, hikes, 
 
 The following is written primarily by [@sampoder](https://github.com/sampoder) but pulls from key points in our team's shared retrospective.
 
-Outernet was an unforgettable weekend, I believe for all the attendees but also for the team and I. We'd never done anything like it and I'm so glad we went for it, it turned out to be incredible. 
+Outernet was an unforgettable weekend, I believe it was for all the attendees but also for the team and I. We'd never done anything like it and I'm so glad we went for it, it turned out to be incredible. 
 
 Everyone was pushed outside of their comfort zone and, most importantly, enjoyed themselves as they explored the outdoors. Everyone embraced the environment around them and build superb technical projects. Lastly, everyone left with a new set of friends with whom they shared some incredible memories with. 
 
@@ -199,11 +199,17 @@ It'd be remiss of me to not mention that Outernet was by far the most intense ev
 
 * hire more tradesmen to help with the physical labour. There was a lot of physical labour involved in setting up, cleaning up and maintaining the venue throughout the event. We could have had more actively engaged staff if we freed them up by hiring in more helping hands. 
 
-Operating in such a large space and having so many things going on in the background created this gap between the attendee and staff experience that I hadn't seen at previous events. At times, it was quite a lonely job that left me feeling both overwhelmed and lost. This was interesting to deal with personally whilst also trying my best to be there to help everyone else.
+Operating in such a large space and having so many things going on in the background created this gap between the attendee and staff experience that I hadn't seen at previous events. At times, it was quite a lonely job that left me feeling both overwhelmed and lost. This was interesting to deal with personally whilst also trying my best to be there to help everyone else on the team.
 
-We stuck it out together and I'll forever be both proud of and grateful for our team. I still can't believe what we managed to pull off. Certainly a weekend I'll never forget.
+We stuck it out together and I'll forever be both proud of and grateful for the team. They're a very special group of people. I still can't believe what we managed to pull off. Certainly a weekend I'll never forget.
 
 <img src="https://cloud-jk4dkc76q-hack-club-bot.vercel.app/0dji_0769__1_.gif" width="600" />
+
+## Acknowledgements
+
+Outernet was made possible by dozens of Hack Clubbers. Thank you to Alex, Arav, Arianna, B, Belle, Ben, Caleb, Cheru, Christina, Conrad, Daisy, Dev, Dieter, Graham, Henry, Holly, Hugo, Ian, JC, Kai, Kara, Leo, Lexi, Liv, Matt, Max, Mel, Nila, Reese, Ruien, Ryan, Sahiti, Sam, Sarthak, Shubham, Thomas, Toby, Woody, Zach, and Zoya. And thank you to Asa, Ben, Char, Colin, Dave, Dick, Duncan, Emily, Forrest, John, Lonny, Matt, Mindy, Nick, Quillan, Rebecca, Randy, and Rob for their generous support.
+
+<img src="https://cloud-5awopv6c4-hack-club-bot.vercel.app/0frame_1__1_.png"  width="600" />
 
 ## ☀️ In Years Past
 
