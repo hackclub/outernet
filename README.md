@@ -132,7 +132,7 @@ Earlier on, we mentioned the idea of building our own hacker village, and guilds
 
 ### Food
 
-By virtue of being in the middle of nowhere, we had to make food for everyone on site ourselves. Fortunately, we had an industrial kitchen on site that we could use to prepare food. We hired a friend of Hack Club's, Lonny, to lead the kitchen crew. Every night his crew would cook up a homemade meal (baked ziti, hamburgers, hot dogs, and pasta) and serve it at The Cookhouse. Meanwhile, for lunches, we did build-your-own sandwiches/salads. For most days, breakfast was a relatively simple continental buffet (yogurt, cereal, bread, etc.). On Sunday morning, we made a special pancake breakfast using maple syrup for the farm next door to us.
+By virtue of being in the middle of nowhere, we had to make food for everyone on site ourselves. Fortunately, we had an industrial kitchen on site that we could use to prepare food. We hired a friend of Hack Club's, Lonny, to lead the kitchen crew. Every night his crew would cook up a homemade meal (baked ziti, hamburgers, hot dogs, and pasta) and serve it at The Cookhouse. Meanwhile, for lunches, we did build-your-own sandwiches/salads. For most days, breakfast was a relatively simple continental buffet (yogurt, cereal, bread, etc.). On Sunday morning, we made a special pancake breakfast using maple syrup from the farm next door to us.
 
 Lonny did an incredible job; every meal was a joy to consume, and it was nice to have so many locally-sourced ingredients.
 
