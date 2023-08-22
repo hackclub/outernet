@@ -205,6 +205,15 @@ We stuck it out together and I'll forever be both proud of and grateful for the 
 
 <img src="https://cloud-jk4dkc76q-hack-club-bot.vercel.app/0dji_0769__1_.gif" width="600" />
 
+## Photo Albums
+
+| Album | Link | License |
+| ----- | ---- | ---- |
+| Highlights (by [@gleich](https://github.com/gleich))  | [hack.af/outernet-all-photos](https://hack.af/outernet-all-photos) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Additional Photos (by [@gleich](https://github.com/gleich))  | [hack.af/outernet-all-photos](https://hack.af/outernet-all-photos) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Drone Footage (by [@ryanrudes](https://github.com/ryanrudes)  | [hack.af/outernet-drone](https://hack.af/outernet-drone) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| Collaborative Album  | [hack.af/outernet-album](https://hack.af/outernet-album) | N/A |
+
 ## Acknowledgements
 
 Outernet was made possible by dozens of Hack Clubbers. 
