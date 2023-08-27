@@ -78,7 +78,9 @@ The spaces we were using for hacking had internet access, powered by the [OuterL
 
 #### Workshops & Lightning Talks
 
-We wanted our hacking spaces to also serve as spaces for learning and picking up new skills. Throughout the weekend, we hosted a collection of workshops around the camp and had daily lightning talk sessions. _[...general description from Arav]_  
+We wanted our hacking spaces to also serve as spaces for learning and picking up new skills. Throughout the weekend, we hosted a collection of workshops around the camp and had daily lightning talk sessions. At Outernet we deviated slightly from the normal way workshops at hackathons work; instead of picking workshops individually and creating our own list of workshops, we let anyone run a workshops and had the participants determine which workshops would be best for them. To make this work, we had each person who wanted to run a workshop/lighting talk submit a PR with some information about their sessions. After this, we reviewed each submission, proposed recommendations / small changes, and then merged their PR.
+
+Lightning talks were a big hit! We had talks on everything from India's tax system to [visualising the entire internet](https://github.com/NalinPlad/wPing). We encouraged folks to come up with the wackiest topics they could and then PR their idea to this repository. Lightning talks were so popular on the first day that we added an extra slot on the second day's lunch!
 
 Every workshop and lightning talk's outline can be found in [`/workshops-and-lightning-talks`](/workshops-and-lightning-talks).
 
