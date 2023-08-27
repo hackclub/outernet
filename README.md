@@ -74,7 +74,7 @@ Lastly, we had The Cookhouse. It was also a multipurpose space during the event;
 
 #### The Internet
 
-The spaces we were using for hacking had internet access, powered by the [OuterLAN](https://github.com/hackclub/outerlan) guild. _[...general description from LAN team]_
+The spaces we were using for hacking had internet access, powered by the [OuterLAN](https://github.com/hackclub/outerlan) guild. We had a local network with access points scattered across the campground and at the three makerspaces, we had internet access through Starlink (which cut out exactly every 9 minutes and 26 seconds). Internet proved to be a big challenge for us, you can read the whole story at [github.com/hackclub/outerlan](https://github.com/hackclub/outerlan). 
 
 #### Workshops & Lightning Talks
 
