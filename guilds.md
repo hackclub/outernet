@@ -78,7 +78,7 @@ To start your own guild with friends, follow these three steps:
 2. Through Slack, find four or more fellow attendees to help out with running the guild.
 3. Submit a PR to [`hackclub/outernet`](https://github.com/hackclub/outernet/) that adds your idea to above list of guilds. Alongside a brief description of your idea, please also include a breakdown of how you see yourself spending (or not spending) the $250 grant and list those who'll be helping you.
 
-Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [Hack Club Bank](https://hackclub.com/bank) account.
+Our team will get back to you within a week through GitHub! Once your PR is merged, we'll set you up with a [HCB](https://hackclub.com/hcb) account.
 
 ![Hack_Club_Assemble_LTNJ_00021 (1)](https://github.com/hackclub/outernet/assets/39828164/b4f8170d-0d9c-4eaf-bdee-c590fc2a6626)
 
