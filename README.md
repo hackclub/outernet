@@ -134,9 +134,9 @@ Earlier on, we mentioned the idea of building our own hacker village, and guilds
 
 ### Food
 
-By virtue of being in the middle of nowhere, we had to make food for everyone on site ourselves. Fortunately, we had an industrial kitchen on site that we could use to prepare food. We hired a friend of Hack Club's, Lonny, to lead the kitchen crew. Every night his crew would cook up a homemade meal (baked ziti, hamburgers, hot dogs, and pasta) and serve it at The Cookhouse. Meanwhile, for lunches, we did build-your-own sandwiches/salads. For most days, breakfast was a relatively simple continental buffet (yogurt, cereal, bread, etc.). On Sunday morning, we made a special pancake breakfast using maple syrup from the farm next door to us.
+By virtue of being in the middle of nowhere, we had to make food for everyone on site ourselves. Fortunately, we had an industrial kitchen on site that we could use to prepare food. We hired a friend of Hack Club's, Lonny, to lead the kitchen crew. Every night his crew would cook up a homemade meal (baked ziti, hamburgers, hot dogs, and pasta) and serve it at The Cookhouse. Meanwhile, for lunches, we did build-your-own sandwiches/salads. For most days, breakfast was a relatively simple continental buffet (yogurt, cereal, bread, etc.). On Sunday morning, we made a special pancake breakfast using maple syrup from the farm next door to us. For nearly all of these meal services, Ruien, a student summer intern at Hack Club, ran front-of-house operations for The Cookhouse, including setup, cleaning, and teardown, and coordinated with the kitchen and staff to make sure food was freshly made and served in a timely manner to his fellow campers.
 
-Lonny did an incredible job; every meal was a joy to consume, and it was nice to have so many locally-sourced ingredients.
+Lonny and his crew did an incredible job; every meal was a joy to consume, and it was nice to have so many locally-sourced ingredients.
 
 ### Tomfoolery
 
@@ -189,11 +189,11 @@ Everyone was pushed outside of their comfort zone and, most importantly, enjoyed
 
 I think we were able to pull this off because: we created a great physical environment for the event, we brought in specialists who knew the outdoors like the back of their hands, our staff was constantly energetic and flexible even when the going got tough, we emphasised the technical nature of the event from the start, and we had a super enthusiastic set of attendees who all brought something unique to the event.
 
-This isn't to say that things couldn't have been even better. No event is perfect and Outernet had its fair share of flaws. Attendee-experience-related areas for improvement  included making the shows more interactive (especially the second night), having a better way of communicating what was going on when, more consistent internet, more efficient meal serving, and there being more opportunity for interaction between staff and attendees.
+This isn't to say that things couldn't have been even better. No event is perfect and Outernet had its fair share of flaws. Attendee-experience-related areas for improvement included making the shows more interactive (especially the second night), having a better way of communicating what was going on when, more consistent internet, more efficient meal serving, and there being more opportunity for interaction between staff and attendees.
 
 It'd be remiss of me to not mention that Outernet was by far the most intense event any of us had organised. On Monday, I remember feeling physically defeated by everything and anything. There's a first time for everything and we learned a lot from Outernet; if we were to do Outernet again, I would:
 
-* improve our internal communication strategy. At hackathons, we can normally just run back and forward to each other. Outernet's venue was too large for that so we threw walkie-talkies into the mix. It was constant chaos on the radios, especially during high-pressure moments such as the bus departures back to Boston. 
+* improve our internal communication strategy. At hackathons, we can normally just run back and forward to each other. Outernet's venue was too large for that so we threw walkie-talkies into the mix. It was constant chaos on the radios, especially during high-pressure moments such as the bus departures back to Boston.
 
 * be more conservative with supply purchases. We brought a lot of stuff and then had to lug it to and from Shelburne. We should have tried to rent more of the equipment.
 
