@@ -118,8 +118,7 @@ After everyone had shown off their projects to each other, we gathered in the to
 
 ## The Camping Experience
 
-Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time. We wanted to make sure everyone at Outernet had an equally magical time.
-
+Camping is incredible; the shared experience of it is able to bring people together in really special ways. A couple of weeks before Outernet, a bunch of us went camping for a night in Charlotte, VT. We danced around the campfire to music, toasted marshmallows, and chatted for hours around the campfire. We wanted to make sure everyone at Outernet had an equally magical time.
 ### Sleeping
 
 To start, everyone needed a place to sleep, and that meant acquiring tents and camping supplies for over 150 people. We worked with a local company called [KitLender](https://www.kitlender.com/) and hired a tent crew to help us with setup. KitLender provided us with a collection of six to twelve-person tents (we had them at approx. 75% capacity). They also provided each a hacker with a sleeping bag, a sleeping mat, a camping pillow, and a headlight.
