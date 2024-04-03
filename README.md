@@ -8,6 +8,9 @@ This is the story of how and why we did it.
 
 Our goal is to open-source everything we have about Outernet, from half-baked ideas to our full itemised budget. No two events are the same but we hope that within this repository, you can find inspiration for your own special event. 
 
+## The Budget
+Our open source itemised budget is available [here!](https://docs.google.com/spreadsheets/d/1RA4ojnRJKjk-k70qUUMNP_pAZGF4_dJq8ZUuDgj0aw4/edit?usp=sharing). You can also view our transparent finances on [HCB](https://hcb.hackclub.com/outernet).
+
 ## The Concept
 
 Magical moments happen when we take people out of their comfort zone. We've run countless hackathons in flash indoor spaces, how about doing one outdoors? 
